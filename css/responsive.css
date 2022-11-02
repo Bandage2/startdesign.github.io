@@ -1,0 +1,5085 @@
+@media(max-width:1060px) {
+    .service-detils .row .col-md-10 {
+        padding-right: 350px
+    }
+}
+
+@media(max-width:991px) {
+     .technological-box .spc-bt-15-md{ margin-bottom: 30px}
+    .col-md-3.col-sm-6.spc-bt-15-md {
+        margin-bottom: 15px
+    }
+    .gallery .tab-content {
+        padding-bottom: 30px
+    }
+    .service-detils .row .col-md-10 {
+        padding-right: 0;
+        width: 100%;
+        box-shadow: none;
+        padding-bottom: 0;
+        padding-top: 0
+    }
+    span.email-id.animate-charcter {
+	    margin-top: -8px;
+	}
+    .sub-head {
+        font-size: 22px
+    }
+    .develop_robust_content img {
+        width: 50%
+    }
+    .advantages-hiring-img {
+        text-align: center
+    }
+    .advantages-hiring-list span {
+        padding: 10px 10px
+    }
+    .percent-dev b {
+        font-size: 60px
+    }
+    .mx-60 {
+        max-width: 50%
+    }
+    .service-detils-img a img {
+        width: 90%;
+        display: inline-block
+    }
+    .service-detils-img a {
+        display: block;
+        text-align: center
+    }
+    .service-detils-img-box {
+        margin: 40px 0
+    }
+    .advantages-hiring,
+    .develop_robust_section,
+    .service-detils,
+    .why-hire {
+        padding: 50px 0
+    }
+    .why-hire .row .col-md-3 {
+        margin-bottom: 15px
+    }
+    .why-hire .row .col-md-3:last-child {
+        margin-bottom: 0
+    }
+    .technological-box a {
+        width: -webkit-calc(100% / 2 - 32px);
+        width: calc(100% / 2 - 32px);
+    }
+    section.service-detils .col-md-2 {
+        position: initial;
+        width: 100%
+    }
+    .service-detils .row {
+        padding: 30px;
+        box-shadow: 0 0 3px 0 rgba(0, 0, 0, .10980392156862745);
+        margin-left: 0;
+        margin-right: 0
+    }
+	
+	/****************/
+	
+	body.homebody.body-x.pageladder.overflow-hidden div#top-container-def {
+		top: 0;
+	}
+	
+	body.homebody.aboutus--pg.overflow-hidden div#top-container-def {
+		top:0;
+	}
+	
+	/***************/
+
+    /*******************14-7-2020*********************************/
+
+    .ecommerce-outer .col-md-4+.col-md-4+.col-md-4 {
+        margin-top: 30px;
+    }
+
+    .technological-box-1 a {
+        width: 45%;
+    }
+
+    .technological-box-1 a+a+a {
+        margin-top: 30px;
+    }
+
+    .technical-box-outer .col-md-4+.col-md-4+.col-md-4 {
+        margin-top: 30px;
+    }
+
+
+
+    /*******************14-7-2020 Ends****************************/
+
+}
+
+@media only screen and (min-width:320px) and (max-width:992px) {
+    .topmenu {
+        display: none
+    }
+    .menu-right {
+        float: right;
+        width: auto
+    }
+    .mobile-menu-last {
+        display: block
+    }
+}
+
+@media(min-width:992px) {
+    .mobile-menu-last {
+        display: none
+    }
+}
+
+@media(min-width:768px) {
+    .tywebd-service .service {
+        min-height: 300px
+    }
+.technical-box-content p {
+    line-height: 1.6;
+    padding: 10px 15px;
+  /*  margin-bottom: 30px;*/
+}
+}
+
+@media(max-width:1199px) {
+    .hire-box-process {
+        margin-bottom: 15px
+    }
+    .bg-img-main {
+        min-height: 550px
+    }
+}
+
+@media(max-width:1012px) {
+    .imp-img {
+        min-height: 304px
+    }
+    .slick-prev {
+        left: -10px
+    }
+    .slick-next {
+        right: -10px
+    }
+}
+
+@media(max-width:991px) {
+	.advantages-hiring-img img { width: 70%; }
+	.use-technological.dev-tech-2 .technological-box {margin-top: 10px;}
+	section.site-blog.bg-gray-white {margin-bottom: 30px;}
+    .project-idea {
+        padding: 15px 0!important;
+        margin: 15px 0
+    }
+    .about-us-boxes {
+        padding-bottom: 0
+    }
+    .rw-bt-mt-30 {
+        margin-top: 0
+    }
+    .use-technological, .site-blog {
+        padding: 50px 0
+    }
+    .why-hire .row {
+        padding-bottom: 0
+    }
+    .hire_about {
+        border-right: 0;
+        margin-bottom: 5px;
+        display: inline-block;
+        width: 100%
+    }
+    .spc-bt-md-15 {
+        margin-bottom: 15px
+    }
+    .row.aboutus-facts-list .col-md-2 {
+        border-right: 0;
+        padding-bottom: 15px
+    }
+    .list-imgbox.text-center a {
+        margin-bottom: 15px
+    }
+    .row.row-ind-1 {
+        margin-bottom: 15px
+    }
+    .service-content {
+        padding: 0 10px
+    }
+    .cstm-para,
+    .ind-served p,
+    .ind-specific p,
+    .mob-appp-services p.tp-para,
+    .mob-dev-services p,
+    .our-process p,
+    .sec-contetnt1 p,
+    .srr-webd p,
+    .technology p,
+    .tpp-para {
+        max-width: 800px;
+        margin: 0 auto;
+        font-size: 16px;
+        line-height: 24px;
+        max-width: 90%;
+        font-weight: 300;
+        text-align: center
+    }
+    .project-idea h3 {
+        font-size: 28px;
+        margin-top: 10px
+    }
+    .getstarted {
+        font-size: 12px;
+        padding: 12px 18px
+    }
+    .pi-prnt {
+        max-width: 500px
+    }
+    .main-row .col-md-5 {
+        text-align: center
+    }
+    .main-row .col-md-5 img {
+        width: 400px;
+        display: inline-block
+    }
+    .main-row .secondary-boxes {
+        margin-top: 30px
+    }
+    .main-row .secondary-boxes h2 {
+        text-align: center
+    }
+    .awesome-webdev h2,
+    .head-2,
+    .ind-specific h2,
+    .mob-appp-services h2,
+    .mob-dev-services h2,
+    .our-process h2,
+    .section-service h2,
+    .typeweb-d h2 {
+        margin-bottom: 25px!important;
+        font-size: 28px
+    }
+    .typeweb-d .services-grid {
+        margin-top: 15px
+    }
+    .sec-contetnt1 h2 {
+        font-size: 28px
+    }
+    .sec-contetnt1 h4 {
+        margin-top: 5px;
+        margin-bottom: 5px
+    }
+    .contant-onimages-about {
+        padding: 6px;
+        top: 6px;
+        width: 96%;
+        height: 94%;
+        left: 6px
+    }
+    .sec-contetnt1 p {
+        line-height: 24px;
+        margin-top: 10px;
+        font-size: 14px
+    }
+    .title p {
+        margin-bottom: 15px
+    }
+    .video-outerbox {
+        background: 0 0;
+        min-height: inherit
+    }
+    .digital-market-section h1 {
+        font-size: 40px
+    }
+    .hire-digital-market-section h1 {
+        font-size: 33px
+    }
+    .displaynone {
+        display: none
+    }
+    .hire-text-proccess-headins {
+        padding: 20px 10px 20px 10px
+    }
+    #top-sections-industry {
+        margin-top: 20px
+    }
+    .conpage-head {
+        margin-bottom: 15px;
+        border: 1px solid #e8e6e6;
+        padding: 15px
+    }
+    section.sd-contact .col-sm-6:last-child .conpage-head {
+        margin-bottom: 0
+    }
+    .project-client-section {
+        padding: 20px 0
+    }
+    .project-client-section h1 {
+        font-size: 50px
+    }
+    .working-title a {
+        margin-top: 15px
+    }
+    .title h1 {
+        font-size: 35px
+    }
+    .text-proccess-headins h2 {
+        font-size: 22px
+    }
+    .Blog-heading-tp {
+        font-size: 25px
+    }
+    .title h1 {
+        font-size: 30px
+    }
+    #about-page-con-id {
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+    .padding40pxbtm {
+        padding-bottom: 0;
+    }
+    .box-process-green {
+        margin-top: 15px;
+        min-height: 198px
+    }
+    .tab-link ul li {
+        width: 16%;
+        padding: 25px 5px;
+    }
+    .box-tab {
+        height: 75px;
+    }
+    #top-container-def {
+        position: fixed;
+        top: 40px;
+    }
+	
+	.top-zero {
+		top: 0 !important;
+	}
+	
+    .topbar {
+        display: none
+    }
+    .find-us-inner-wrap {
+        width: 90%;
+        margin: 30px
+    }
+    .logo-wrap {
+        left: -40px
+    }
+    .logo-wrap {
+        width: 100px;
+        height: 100px;
+        top: -1px
+    }
+    .Kenney {
+        line-height: 15px;
+        margin-left: 42px
+    }
+    .col-md-3.filter.wordpress.ag-scrollspy-init-inview {
+        float: left;
+        width: 50%;
+        text-align: center;
+        margin: 0 auto;
+        display: table
+    }
+    .col-md-3.filter.html.new-products.ag-scrollspy-init-inview {
+        float: left;
+        width: 50%;
+        text-align: center;
+        margin: 0 auto;
+        display: table
+    }
+    .product_in_wrap {
+        margin: 0 auto;
+        margin-top: 20px
+    }
+    .new-products:before,
+    .upcoming-products:before {
+        top: 17px;
+        right: 18px
+    }
+    .service_details_wrap .content-img:after,
+    .service_details_wrap .content-img:before {
+        width: 70px;
+        height: 70px;
+        background-size: 50px
+    }
+    .development-need,
+    .ind-specific,
+    .mob-devsec,
+    .our-process,
+    .project-idea,
+    .section-process,
+    .section-service,
+    .typeweb-d {
+        padding: 50px 0
+    }
+    .section-top-content {
+        margin-top: 20px
+    }
+    .service-details-content .row {
+        margin-top: 0;
+        margin-bottom: 20px
+    }
+    .box-process {
+        padding: 55px 30px 55px;
+        min-height: 198px
+    }
+    #bannerimg,
+    #bannerimg div .usa-b-date-box {
+        border: none
+    }
+    .working-title p.para-2 {
+        width: 92%;
+        margin: 0;
+        line-height: 23px
+    }
+    .working-title p {
+        margin-bottom: 10px
+    }
+    .contant-onimages-about>div {
+        padding-left: 0!important;
+        padding-right: 0!important
+    }
+    .contact-x .pad-bottom {
+        padding-bottom: 15px
+    }
+    .bgtop-hire-sections {
+        padding: 30px
+    }
+    .hire-digital-market-section p {
+        margin-top: 15px
+    }
+    .blog .card-block h4 {
+        font-size: 18px
+    }
+    .aboutus-facts-list {
+        overflow: hidden;
+        margin-bottom: 0
+    }
+    .aboutus-facts-list li {
+        margin: 0 0 15px;
+        padding: 0 5px 3px 15px
+    }
+    .fotter-slaes-boxes {
+        padding: 10px 20px
+    }
+    input[type=password],
+    input[type=text] {
+        padding-right: 0
+    }
+    .tp-simpleresponsive>ul>li {
+        max-height: 450px
+    }
+    .tp-simpleresponsive ul li .form-group {
+        margin-bottom: 15px
+    }
+    h1.tp-caption.customout.start {
+        font-size: 40px!important
+    }
+    .middle-form-banner {
+        left: 35px!important;
+        background-color: #fff;
+        padding: 20px 10px!important
+    }
+    .middle-form-banner {
+        position: absolute;
+        top: 60px;
+        left: 35px!important;
+        width: 80%;
+        background-color: #fff;
+        padding: 20px 10px!important
+    }
+    .new-sadfsadsa h1 {
+        left: 35px!important
+    }
+    .bg-img-main {
+        min-height: inherit
+    }
+    .top-sec-relatsive {
+        min-height: 450px
+    }
+    .sd-blog {
+        padding: 50px 0;
+        margin: 20px 0
+    }
+    .development-need {
+        padding: 50px 0;
+        margin: 25px 0
+    }
+    .service-content h3 {
+        font-size: 16px;
+        font-weight: 500
+    }
+    #particles-js {
+        margin-top: 0px
+    }
+    .development-need p {
+        text-align: center;
+        margin: 0 auto;
+        font-size: 16px;
+        line-height: 1.8
+    }
+    .mob-appp-services .appp-column-content h4 {
+        font-size: 20px;
+        margin-bottom: 10px
+    }
+    .hire_about span {
+        font-size: 40px
+    }
+    .material-ui {
+        margin-bottom: 35px
+    }
+}
+
+@media(max-width:860px) {
+    .project-client-section {
+        padding: 15px 0
+    }
+    .project-client-section h1 {
+        font-size: 45px
+    }
+    .our-team .pic {
+        max-width: 150px
+    }
+    .imp-img {
+        min-height: 326px
+    }
+}
+@media(max-width:768px) {
+	
+	.our-info span a {
+        font-size: 13px
+    }
+	
+}
+
+@media(max-width:767px) {
+    .row.contact_us_page .col-md-8 center{
+        display: block;
+    }
+    .row.contact_us_page .conpage-head{
+        min-height: auto;
+    }
+    .row.contact_us_page .col-md-8  .con-page-footer {
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.row.contact_us_page .col-md-8 .conpage-head .copag-midle img.img-responsive{
+    margin: auto;
+}
+.row.contact_us_page .col-md-8 .conpage-head .copag-midle p{
+    text-align: center;
+}
+    section.gallery.indus-serv-port {
+        padding-top: 30px;
+    }
+    .technological-box .spc-bt-15-md {margin-bottom: 15px;}
+    .technological-box .spc-bt-30 {margin-bottom: 15px;}
+    .site-blog .blog .card{margin-bottom: 15px;}
+    .site-blog .container .row:last-child .col-lg-4:last-child .card{margin-bottom: 0}
+    .main-footer-form {padding-top: 0px !important;}
+    .banner-image, .banner-image .container{background: #fff; min-height: inherit;}
+
+
+    /************11-2-2020*****************/
+  .banner-image {
+    padding: 70px 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    min-height: 100px;
+    padding-top: 0px;
+    margin: 0px 0px 30px 0px;
+}
+.banner{
+    margin-top: 0px;
+
+}
+    /************11-2-2020-ends*****************/
+
+    
+    .banner-img-text p{font-size: 16px;line-height: 27px;}
+    .banner-img-text {width: 100%; 
+        position: relative;
+        top: 0px;
+        transform: none;
+        margin-top: 40px;}
+    .banner-img-text h1 > span{line-height: 35px;}
+    .banner-img-text h1 {
+     font-size: 25px;
+     margin-bottom: 15px;
+    }
+    .working-title {
+    padding: 15px !important;
+}
+    section.gallery.indus-serv-port .title {
+        padding-bottom: 0;
+    }
+    .row.no-gutters.all-proj-row-2,
+    .row.no-gutters.all-proj-row-3 {
+        margin-top: 0
+    }
+    .gallery .tab-content {
+        padding-bottom: 30px
+    }
+    .col-md-3.col-sm-6.spc-bt-15-sm {
+        margin-bottom: 15px
+    }
+    .row.aboutus-facts-list .col-md-2.no-border {
+        padding-bottom: 0
+    }
+    .tab-img-inner .tab-bottom-box {
+        bottom: 5px!important;
+        opacity: 1
+    }
+    .technological-box {
+        margin-top: 0
+    }
+    .our-team.spc-bt-0 {
+        margin-bottom: 0
+    }
+    .material-ui {
+        margin-bottom: 30px
+    }
+    /* #particles-js {
+        margin-top: 25px
+    } */
+    .technological-img img {
+        width: 60px
+    }
+    .services-detail-img {
+        font-size: 15px
+    }
+    .spc-bt-sm-15 {
+        margin-bottom: 15px
+    }
+    section.section-testimonials {
+        padding-bottom: 30px
+    }
+    .row.row-ind-1 {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+    .advantages-hiring-list {
+        padding-top: 30px
+    }
+    .advantages-hiring-img img {
+        width: 70%
+    }
+    .hire_about span {
+        font-size: 35px
+    }
+    .advantages-hiring,
+    .develop_robust_section,
+    .service-detils,
+    .why-hire {
+        padding: 30px 0
+    }
+    .use-technological {
+        padding: 30px 0
+    }
+    .sub-head {
+        font-size: 20px
+    }
+    .develop_robust_content span {
+        margin-top: 15px;
+        font-size: 15px;
+        line-height: 24px
+    }
+    .material-ui {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center
+    }
+     .nav-tabs>li>a {
+        margin-right: 0;
+        font-size:14px;
+        padding:5px 5px!important
+    }
+    .gallery ul.tb-projects li {
+        width: 48%;
+        border: 1px solid #e8e6e6;
+        box-shadow: 0 2px 2px 2px rgba(0, 0, 0, .1);
+        border-radius: 3px
+    }
+    .cstm-para .services-detail-img,
+    .ind-served p,
+    .ind-specific p,
+    .mob-appp-services p.tp-para,
+    .mob-dev-services p,
+    .our-process p,
+    .sec-contetnt1 p,
+    .srr-webd p,
+    .technology p,
+    .tpp-para {
+        font-size: 15px
+    }
+    .project-client-section h1 {
+        display: inline-block
+    }
+    .aboutpage_contant {
+        text-align: center
+    }
+    .aboutpage_contant .blog-sub-tp-heading {
+        margin-top: 25px
+    }
+    .slide-imgs {
+        display: none!important
+    }
+    .process-slide-content,
+    .slide-imgs {
+        width: 100%;
+        min-height: 350px
+    }
+    .slick-dots li button {
+        font-size: 15px;
+        width: 35px;
+        height: 35px
+    }
+    .slick-dots li.slick-active button {
+        width: 45px;
+        height: 45px;
+        font-size: 16px
+    }
+    .mob-appp-services .appp-column-content p {
+        line-height: 21px;
+        margin-bottom: 10px;
+        font-size: 14px
+    }
+    .app-colm-content li {
+        padding-left: 20px;
+        font-size: 14px
+    }
+    .mob-appp-services .appp-column-content h4 {
+        font-size: 18px;
+        margin-bottom: 10px
+    }
+    .mob-dev-services .clr-head {
+        overflow: hidden;
+        display: block;
+        margin-bottom: 15px;
+        border-bottom: 1px solid #f2f2f2;
+        padding-bottom: 15px
+    }
+    .custom-a-head {
+        border: 0!important;
+        padding: 0!important;
+        margin: 0!important
+    }
+    .imgs-lists img {
+        width: 100%;
+        max-width: 100px
+    }
+    .awesome-webdev h2,
+    .head-2,
+    .ind-specific h2,
+    .mob-appp-services h2,
+    .mob-dev-services h2,
+    .our-process h2,
+    .section-service h2,
+    .typeweb-d h2 {
+        margin-bottom: 20px!important;
+        font-size: 25px
+    }
+    .typeweb-d .services-grid {
+        margin-top: 10px
+    }
+    #particles-js {
+        max-height: 250px!important;
+        min-height: 250px
+    }
+    .project-idea h3 {
+        font-size: 25px;
+        margin-top: 7px
+    }
+    .development-need p {
+        text-align: center;
+        margin: 0 auto;
+        font-size: 15px;
+        line-height: 22px
+    }
+    .main-row .service-content {
+        text-align: center
+    }
+    .service-box i {
+        float: none
+    }
+    .service-box {
+        text-align: center
+    }
+    .development-need .platform-list li span img {
+        max-width: 60px
+    }
+    .section-service .service-content p {
+        margin-bottom: 0;
+        margin-left: auto;
+        margin-right: auto
+    }
+    .main-row .service-box {
+        margin-bottom: 15px
+    }
+    .border-0 {
+        border: 0!important
+    }
+    .aboutpage_contant br {
+        display: none
+    }
+    .service_details_wrap .content-img.right-side {
+        margin-top: 20px
+    }
+    .section-service .row.servc-row-bt {
+        margin-top: 0
+    }
+    .imp-img {
+        min-height: 300px
+    }
+    .sec-contetnt1 h4 {
+        font-size: 18px
+    }
+    canvas {
+        max-height: 350px
+    }
+    .service-inq-form .form-input {
+        margin-bottom: 15px
+    }
+    .btn-submit {
+        margin-top: 20px;
+        max-width: 180px
+    }
+    .service h4 {
+        font-weight: 500;
+        font-size: 20px
+    }
+    .service_details_wrap h3 {
+        font-size: 20px;
+        text-align: center
+    }
+    .aboutpage_contant p {
+    text-align: left;
+}
+    .techlist-inner ul {
+        text-align: center
+    }
+    .imp-content {
+        min-height: inherit;
+        border-radius: 0
+    }
+    .imp-content p {
+        font-size: 16px;
+        line-height: 25px
+    }
+    .imp-content p br {
+        display: none
+    }
+    br.break1 {
+        display: none
+    }
+    .designs-work-box {
+        height: 400px;
+        margin-bottom: 10px
+    }
+    .service {
+        margin-bottom: 15px;
+        padding: 20px 0
+    }
+    .service p {
+        margin: 15px 0;
+        max-width: 70%;
+        margin-left: auto;
+        margin-right: auto
+    }
+    .service.service3 {
+        margin-bottom: 0
+    }
+    .development-need {
+        padding: 30px 0;
+        margin: 20px 0
+    }
+    .paddingspeash0px {
+        margin-bottom: 0;
+        padding-left: 15px;
+        padding-right: 15px
+    }
+    .hovereffect .overlay:before {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        bottom: 20px;
+        left: 20px;
+        border: 1px solid rgba(255, 255, 255, .5);
+        content: '';
+        opacity: 1;
+        -webkit-transition: opacity .35s, -webkit-transform .45s;
+        transition: opacity .35s, transform .45s;
+        -webkit-transform: inherit;
+        transform: inherit
+    }
+    .hovereffect {
+        float: none
+    }
+    .hovereffect img {
+        width: 100%;
+        opacity: .1;
+        transform: none
+    }
+    .overlay_hover {
+        top: 50%;
+        transform: translateY(-50%)
+    }
+    .sd-blog {
+        padding: 30px 0;
+        margin: 15px 0
+    }
+    .about-sd {
+        margin-top: 0
+    }
+    .d-none-md {
+        display: none
+    }
+    .contant-onimages-about {
+        padding: 0
+    }
+    .topmenu ul li.inquiry-menu {
+        margin-top: 10px
+    }
+    .partners-box-footer img {
+        margin-right: 40px
+    }
+    .development-need,
+    .ind-specific,
+    .mob-devsec,
+    .our-process,
+    .project-idea,
+    .section-process,
+    .section-service,
+    .typeweb-d {
+        padding: 15px 0;
+        margin: 10px 0
+    }
+    .section-top-content {
+        margin-top: 15px
+    }
+    .about-sd,
+    .add-map-sd,
+    .app-develop,
+    .imp-ecommerce,
+    .our-team-bgimg,
+    .our-work,
+    .port-upper,
+    .sd-contact,
+    .sd-process,
+    .section-top-content,
+    .service-sd-blog,
+    .service_details {
+        padding: 30px 0
+    }
+    .aboutussection,
+    .section-industries,
+    .section-process,
+    .section-testimonials,
+    .site-blog,
+    .start-project {
+        width: 100%;
+        padding: 15px 0
+    }
+ 
+    .footer-main {
+        margin-top: 0
+    }
+    .top-sec-relatsive {
+        min-height: 350px
+    }
+    h1.tp-caption.customout.start {
+        font-size: 33px!important;
+        line-height: normal!important
+    }
+    .digital-market-section {
+        margin-top: 30px;
+        float: none
+    }
+    .bgtop-hire-sections {
+        padding: 20px
+    }
+    .hire-digital-market-section p {
+        font-size: 14px
+    }
+    .hire-digital-market-section h1 {
+        font-size: 30px
+    }
+    .hire-text-proccess-headins {
+        padding: 15px 10px 15px 10px
+    }
+    #top-sections-industry {
+        margin-top: 10px
+    }
+    .contact-x .pad-bottom {
+        padding-bottom: 10px
+    }
+    .con-page-footer h5 {
+        margin: 10px 0
+    }
+    .con-page-footer p {
+        font-size: 15px
+    }
+    .project-client-section {
+        padding: 10px 0
+    }
+    .contant-onimages-about {
+        width: 100%;
+        height: 100%
+    }
+    #slider {
+        margin: 0!important
+    }
+    #slider ul li {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: auto
+    }
+    .body-x .working-title {
+        margin-top: -25px
+    }
+    .title {
+        padding: 0
+    }
+    .height-auto {
+        height: auto!important;
+        min-height: 300px
+    }
+    .start-project .title {
+        padding: 0!important
+    }
+    .detial-content-box {
+        display: block;
+        text-align: center;
+        margin-bottom: 15px
+    }
+    .padding50pxbtm {
+        padding-bottom: 30px
+    }
+    .text-proccess-headins-green h2 {
+        color: #fff;
+        font-size: 20px
+    }
+    .title h1 {
+        font-size: 28px;
+        margin-bottom: 10px
+    }
+    .working-title p.para-2 {
+        width: 100%;
+        margin-left: 0!important;
+        margin-right: 0!important
+    }
+    .testimonial .testimonial-title {
+        font-size: 14px;
+        letter-spacing: 2px
+    }
+    .working-title {
+        padding-left: 0!important
+    }
+    .testimonial .description {
+        font-size: 14px;
+        line-height: 24px
+    }
+    .padding-tp-40px {
+        padding-top: 30px
+    }
+    .Blog-heading-tp {
+        font-size: 22px;
+        margin-bottom: 20px
+    }
+    .blog .card-block {
+        padding: 30px 20px
+    }
+    .blog .card-block p {
+        padding: 5px 0 10px 0;
+        font-size: 14px
+    }
+    .blog .card-block h4 {
+        font-size: 18px;
+        letter-spacing: 1px
+    }
+    .main-footer-form .padding40px0px {
+        padding-bottom: 25px
+    }
+    .footer-main {
+        padding: 30px 0
+    }
+    .fotter-slaes-boxes {
+        padding: 10px 20px
+    }
+    .fotter-slaes-boxes i {
+        padding: 10px 15px;
+        font-size: 20px;
+        margin-top: 2px;
+        height: 50px;
+    }
+    .fotter-slaes-boxes p {
+        font-size: 14px;
+        letter-spacing: 2px
+    }
+    .fotter-slaes-boxes h2 {
+        font-size: 20px;
+        line-height: 30px
+    }
+    .partners-box-footer.margintp20px {
+        margin-top: 15px
+    }
+    .partners-box-footer.margintp40px {
+        margin-top: 15px!important
+    }
+    .partners-box-footer img {
+        max-width: 80px!important
+    }
+    .form-group {
+        margin-bottom: 20px
+    }
+    .copyright-content {
+        padding: 30px 0
+    }
+    .copyright-content .social-media li a {
+        font-size: 15px;
+        height: 35px;
+        line-height: 16px;
+        width: 35px
+    }
+    .aboutus-facts-list strong {
+        font-weight: 400
+    }
+    .d-none-md {
+        display: none!important
+    }
+    .main-footer-form .padding40px0px {
+        padding-top: 0
+    }
+    .box-process {
+        padding: 30px 0;
+        min-height: inherit
+    }
+    .box-process-green {
+        min-height: inherit
+    }
+    .service_details_wrap .content-img img {
+        min-height: inherit
+    }
+    .service-details-content .row {
+        margin-bottom: 0
+    }
+    .heading-particjs h1 {
+        font-size: 30px;
+        line-height: normal
+    }
+    .aboutpage_contant p {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+    .our-team .pic {
+        max-width: 180px;
+        margin: 15px auto
+    }
+    .our-team .pic:after,
+    .our-team .pic:before {
+        border-width: 7px
+    }
+    .our-team {
+        padding-bottom: 30px;
+        margin-bottom: 15px;
+        background: #fff;
+        padding-top: 10px;
+        box-shadow: 0 2px 2px 2px rgba(0, 0, 0, .1);
+        border-radius: 3px
+    }
+    .aboutus-facts-list li {
+        width: 50%
+    }
+    .about-cols>div.col:first-child {
+        width: 100%
+    }
+    .about-cols>div.col {
+        width: 100%
+    }
+    ul.aboutus-facts-list {
+        display: table;
+        margin-top: 15px;
+        margin-bottom: 10px
+    }
+    .aboutus-facts-list li,
+    .aboutus-facts-list li.mb-0 {
+        margin-bottom: 10px!important
+    }
+    .paddingspeash0px {
+        height: 260px
+    }
+    .aboutus-facts-list li {
+        width: 50%;
+        border-left: solid 4px #ebebeb;
+        border-left: none;
+        padding: 0;
+        margin-bottom: 15px
+    }
+    .Kenney2 {
+        margin-left: 37px
+    }
+    .col-md-3.filter.html.new-products.ag-scrollspy-init-inview {
+        display: table;
+        margin: 0 auto;
+        float: none
+    }
+    .col-md-3.filter.wordpress.ag-scrollspy-init-inview {
+        display: table;
+        margin: 0 auto;
+        float: none
+    }
+    .new-products:before,
+    .upcoming-products:before {
+        right: -24px
+    }
+    .service_details_wrap .content-img {
+        margin-top: 20px;
+        margin-bottom: 20px
+    }
+    .contact-x .pad-bottom {
+        padding-bottom: 5px
+    }
+    .title p {
+        font-size: 16px
+    }
+    .gallery ul li a:before {
+        opacity: 1;
+        top: 50%
+    }
+    .gallery ul li a:after {
+        opacity: 1
+    }
+    .section-lead {
+        font-size: 15px;
+        margin-bottom: 15px
+    }
+    .view-protfolio a {
+        display: block;
+        height: 40px;
+        line-height: 40px;
+        font-size: 14px;
+        margin-top: 10px
+    }
+    .fotter-slaes-boxes.margintp20px {
+        margin-top: 20px
+    }
+    .sec-contetnt1 h2 {
+        font-size: 25px
+    }
+    .our-process .service {
+        background: 0 0;
+        border: 1px solid #eee;
+        padding-bottom: 20px
+    }
+    .service_details_wrap .latest-tech-list {
+        text-align: center;
+        margin-bottom: 30px
+    }
+    .service_details_wrap .latest-tech-list p {
+        max-width: 75%;
+        margin-left: auto;
+        margin-right: auto
+    }
+    ul.spc-fea {
+        text-align: left;
+        max-width: 320px;
+        margin-left: auto;
+        margin-right: auto
+    }
+    .mob-devsec .latest-tech-list img {
+        max-width: 100px
+    }
+    .pi-prnt {
+        max-width: 400px
+    }
+    .aw-webdev-icons h4 {
+        font-size: 16px
+    }
+    #particles-js {
+        margin-bottom: 15px
+    }
+    .advantages-hiring,
+    .develop_robust_section,
+    .service-detils {
+        padding: 30px 0
+    }
+    .our-info span a {
+        font-size: 13px
+    }
+    .our-info span {
+        padding: 0 10px
+    }
+    section.aboutussection .col-sm-5 {
+        padding: 0 0;
+        margin-top: 30px
+    }
+    .bg-img-main {
+        margin-top: 26px
+    }
+
+}
+
+@media(max-width:736px) {
+    .industry-small-box ul li {
+        width: 90px
+    }
+    .working-title {
+    padding: 15px !important;
+}
+}
+
+@media(max-width:670px) {
+    .industry-small-box .img-icon-center {
+        padding: 30px 0;
+        width: inherit;
+        height: inherit
+    }
+    .industry-small-box ul li {
+        width: 26%;
+        height: 155px
+    }
+    .bdr-das-top-box {
+        width: 100%;
+        height: auto
+    }
+    #particles-js {
+        margin-top: 0
+    }
+}
+
+@media(max-width:600px) {
+    .title-white h1:before {
+        font-size: 46px
+    }
+    .aboutussection {
+        margin-top: 15px
+    }
+    .hire-digital-market-section h1:before {
+        left: 0;
+        font-size: 46px
+    }
+    .digital-market-section:before {
+        top: -40px;
+        left: 0;
+        font-size: 170px
+    }
+    .form-tp-dp-none {
+        display: none
+    }
+    .working-title {
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-right: 15px
+    }
+    .fact-wrap {
+        width: 30.33%;
+        float: right
+    }
+    ul.aboutus-facts-list {
+        width: 100%
+    }
+    .section-testimonials .title p {
+        margin-bottom: 0
+    }
+}
+
+@media(max-width:575px) {
+    .conpage-head {
+        min-height: 180px;
+    }
+    .spc-70-footer {
+        margin-top: 10px;
+    }
+    .imgs-lists a:hover {
+        transform: scale(1);
+    }
+    .mobile-menu-last .burger-container {
+        margin-right: -10px;
+    }
+    .percent-dev b {
+        font-size: 60px
+    }
+    .service-detils-img a {
+        border-radius: 5px;
+        border-width: 5px;
+        margin: 0 2px;
+    }
+    .technological-box a {
+        padding: 25px;
+        text-align: center;
+        text-align: -webkit-center;
+    }
+    section.add-map-sd {
+        margin-top: 0px
+    }
+    .modal-content {
+        width: 100%!important
+    }
+    section.sd-blog~.main-footer-form {
+        margin-top: 30px
+    }
+    .spc-bt-70 {
+        margin-bottom: 30px
+    }
+    .advantages-hiring-list span i {}
+    .advantages-hiring-list {
+        padding-top: 20px!important
+    }
+    .aboutpage_contant .blog-sub-tp-heading.technological-box a {
+        margin-top: 0;
+        margin-bottom: 15px
+    }
+    .technological-box .spc-bt-30 {
+        margin-bottom: 15px
+    }
+    .technological-box a:first-child {
+        margin-top: 10px
+    }
+    .technological-box a:last-child {
+        margin-bottom: 0!important
+    }
+    .details-strip {
+        font-size: 14px;
+        line-height: 23px
+    }
+    .bg-img-main {
+        margin-top: 69px
+    }
+    .technological-box a {
+        width: -webkit-calc(100% / 1 - 32px);
+        width: calc(100% / 1 - 32px)
+    }
+    .material-ui {
+        margin-bottom: 15px
+    }
+    #inq-popup .inq-form-left .row {
+        width: inherit;
+        float: none
+    }
+    #top-container-def {
+        margin-top: 0
+    }
+    .imgs-lists img {
+        max-width: 80px
+    }
+    span.loc-office img {
+        margin-top: 5px
+    }
+
+    /**********11-02-2020****************/
+    .dropof-services a.arr-icon::before {
+        top: 50%;
+        font-size: 18px
+    }
+
+    /**************11-02-2020-ends*************************/
+
+    .service-detils .row .col-md-10 {
+        padding-left: 0
+    }
+    .service-detils-img a img {
+        width: 100%
+    }
+    .mobile-menu-last ul.menu {
+        top: 68px
+    }
+    .mobile-menu-last.menu-opened ul.menu li a {
+        padding:15px;  
+        font-size: 16px
+    }
+	
+	.mobile-menu-last.menu-opened ul.menu li.inquiry-menu {
+		padding: 0px 15px;
+		overflow: hidden;
+	}
+	
+	.mobile-menu-last.menu-opened ul.menu li.inquiry-menu a {
+		width: 100% !important;
+		margin-top: 15px;
+		padding: 15px 26px !important;
+		text-align: center;
+		margin-left: 0 !important;
+	}
+    /*.top-header {
+        display: none
+    }*/
+    #top-container-def {
+        margin-top: 0
+    }
+    .service-detils-img-box {
+        margin-top: 15px
+    }
+    .service-detils .row {
+        padding: 30px 10px
+    }
+    .services-from {
+        padding: 25px 0;
+    }
+    .technological-box a img {
+        max-width: 150px;
+        display: inline-block
+    }
+    .col-xs-6.w-100,
+    .mob-dev-services .col-xs-6 {
+        width: 100%!important
+    }
+    .cstm-para .services-detail-img,
+    .ind-served p,
+    .ind-specific p,
+    .mob-appp-services p.tp-para,
+    .mob-dev-services p,
+    .our-process p,
+    .sec-contetnt1 p,
+    .srr-webd p,
+    .technology p,
+    .tpp-para {
+        font-size: 14px
+    }
+    .f-right {
+        padding-right: 25px
+    }
+    .time-ttl.text-right {
+        padding-left: 25px
+    }
+    .header-ttl.sd {
+        text-align: right;
+        padding-right: 25px
+    }
+    .header-ttl.clent {
+        padding-left: 25px
+    }
+    .time-ttl {
+        font-size: 12px
+    }
+    .service-box i {
+        font-size: 22px;
+        width: 50px;
+        height: 50px;
+        padding-top: 12px
+    }
+    .mob-appp-services .d-flex {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column
+    }
+    .custom-a-head:not(.e-0) {
+        margin-bottom: 15px!important;
+        border-bottom: 1px solid #f2f2f2!important;
+        padding-bottom: 15px!important
+    }
+    .appp-column-img {
+        display: none
+    }
+    #particles-js {
+        margin-bottom: 0
+    }
+    #particles-js {
+        max-height: 200px!important;
+        min-height: 200px
+    }
+    .aw-webdev-icons {
+        margin-bottom: 15px!important
+    }
+    .aw-webdev-icons img {
+        max-width: 45px
+    }
+    .aw-webdev-icons p {
+        font-size: 14px;
+        line-height: 22px
+    }
+    .w-100-xs {
+        width: 100%!important;
+        display: inline-block
+    }
+    .getstarted {
+        font-size: 12px;
+        padding: 10px 18px
+    }
+    .project-idea h3 {
+        font-size: 20px;
+        margin-top: 10px
+    }
+    .imp-img {
+        min-height: 250px
+    }
+    .sec-contetnt1 h2 {
+        font-size: 22px
+    }
+    .imp-img {
+        min-width: 200px
+    }
+    /* #particles-js {
+        margin-top: 52px
+    } */
+    .btn-submit {
+        max-width: 150px;
+        font-size: 14px;
+        padding: 7px 0
+    }
+    .sec-contetnt1 h4 {
+        font-size: 16px
+    }
+    .awesome-webdev h2,
+    .head-2,
+    .ind-specific h2,
+    .mob-appp-services h2,
+    .mob-dev-services h2,
+    .our-process h2,
+    .section-service h2,
+    section.development-need.typeweb-d h2 {
+        margin-bottom: 15px!important;
+        font-size: 20px
+    }
+    .service-box {
+        padding: 10px 0
+    }
+    .service h4 {
+        font-size: 18px
+    }
+    .typeweb-d .service p {
+        margin: 10px 0;
+        max-width: 80%;
+        margin-left: auto;
+        margin-right: auto
+    }
+    .typeweb-d img.webd-s {
+        max-width: 60px
+    }
+    .service {
+        margin-bottom: 15px;
+        padding: 10px 0
+    }
+    .form-footer-class .btn {
+        height: 40px;
+        min-width: 150px;
+        margin-bottom: 10px;
+    }
+    .fotter-slaes-boxes.margintp20px {
+        margin-top: 15px
+    }
+    .heading-particjs h1 {
+        font-size: 24px;
+        line-height: 28px
+    }
+    .development-need {
+        padding: 20px 0;
+        margin: 10px 0
+    }
+    .port .description {
+        padding: 0;
+        float: none;
+        width: 100%
+    }
+    .port .description p {
+        font-size: 14px;
+        margin-bottom: 15px;
+        margin-bottom: 10px
+    }
+    .port img {
+        width: 100%
+    }
+    .port {
+        padding: 15px
+    }
+    .port h1 {
+        font-size: 25px;
+        line-height: normal
+    }
+    .sd-blog {
+        margin: 0;
+        padding: 30px 15px
+    }
+    .partners-box-footer img {
+        margin-top: 0
+    }
+    h1.tp-caption.customout.start {
+        font-size: 22px!important;
+        line-height: normal!important;
+        left: 15px!important
+    }
+    .top-sec-relatsive {
+        min-height: 300px
+    }
+    .form-footer-class {
+        margin-top: 30px
+    }
+    .wars-low {
+        margin-top: 0;
+        display: block;
+        text-align: center;
+    }
+    .sd-blog .wars-low {
+        margin-top: 0
+    }
+    .blog-sub-tp-heading {
+        margin-bottom: 10px
+    }
+    .form-footer-class {
+        padding: 15px 10px
+    }
+    .blog .card-block {
+        padding: 20px 15px
+    }
+    .working-title p.para-2 {
+        width: 90%
+    }
+    .hire-digital-market-section h1 {
+        font-size: 25px
+    }
+    .hire-digital-market-section h1 br {
+        display: none
+    }
+    .hire-digital-market-section h1 span.hire-digital-span {
+        padding: 1px 8px
+    }
+    #top-sections-industry {
+        padding-bottom: 160px
+    }
+    .industry-small-box ul li {
+        width: 33%
+    }
+    .contact-x .title h1 {
+        font-size: 25px
+    }
+    .icon-process-heading {
+        position: absolute;
+        top: -22px;
+        right: -20px
+    }
+    .icon-process-heading img {
+        max-width: 100px
+    }
+    .aboutussection {
+        margin-top: 0
+    }
+    .aboutus-facts-list li {
+        margin-bottom: 10px
+    }
+    ul.aboutus-facts-list {
+        margin-top: 10px
+    }
+    .paddingspeash0px {
+        height: 230px
+    }
+    .services-detail-img {
+        margin-top: 0
+    }
+    .services-detail-img img {
+        width: 40px;
+        margin-bottom: 0;
+        margin-top: 0
+    }
+    .detial-content-box {
+        padding: 10px;
+        margin-bottom: 15px
+    }
+    .testimonial {
+        padding: 10px 30px
+    }
+    .aboutus-facts-list strong {
+        font-weight: 400
+    }
+    .topmenu ul li.inquiry-menu a {
+        display: block!important;
+        text-align: center;
+        width: 100%!important
+    }
+    .text-proccess-headins-green i {
+        padding: 7px;
+        font-size: 15px
+    }
+    #about-page-con-id {
+        padding-top: 0;
+        padding-bottom: 0
+    }
+    .box-process {
+        padding: 25px 0
+    }
+    .text-proccess-headins h2 {
+        font-size: 18px
+    }
+    .box-process-green {
+        padding: 15px 32px 15px
+    }
+    .our-team .pic {
+        max-width: 150px;
+        margin: 15px auto
+    }
+    .our-team .pic:after,
+    .our-team .pic:before {
+        border-width: 5px
+    }
+    .development-need,
+    .ind-specific,
+    .mob-devsec,
+    .our-process,
+    .project-idea,
+    .section-process,
+    .section-service {
+        padding: 20px 0;
+        margin: 0
+    }
+    .section-top-content {
+        margin-top: 10px
+    }
+    .about-sd,
+    .add-map-sd,
+    .app-develop,
+    .imp-ecommerce,
+    .our-team-bgimg,
+    .our-work,
+    .port-upper,
+    .sd-contact,
+    .sd-process,
+    .section-top-content,
+    .service-sd-blog,
+    .service_details {
+        padding: 10px 0
+    }
+    .title h1 {
+        font-size: 24px;
+        line-height: normal;
+        margin-bottom: 5px
+    }
+    .working-title p {
+        font-size: 14px;
+        max-width: 90%
+    }
+    .Blog-heading-tp {
+        font-size: 18px
+    }
+    .blog .card-block {
+        padding: 20px 10px
+    }
+    .testimonial .pic {
+        height: inherit
+    }
+    .testimonial .pic img {
+        max-width: 50px
+    }
+    .testimonial .description {
+        line-height: 23px
+    }
+    .padding-tp-40px {
+        padding-top: 20px
+    }
+    .working-title h5 {
+        font-size: 15px
+    }
+    .start-project .working-title h5 {
+        margin-bottom: 10px
+    }
+    .blog .card-block p {
+        padding: 0 0 5px 0;
+        font-size: 13px
+    }
+    .blog .card-block h4 {
+        font-size: 15px;
+        padding-bottom: 0
+    }
+    .site-blog {
+        margin: 0;
+        margin-top: 20px
+    }
+    .mape-png {
+        margin-top: 20px
+    }
+    .blog-sub-tp-heading {
+        font-size: 15px
+    }
+    .fotter-slaes-boxes p {
+        font-size: 13px;
+        letter-spacing: 1px
+    }
+    .fotter-slaes-boxes h2 {
+        font-size: 14px;
+        line-height: 22px
+    }
+    .fotter-slaes-boxes {
+        padding: 5px 15px
+    }
+    .partners-box-footer h2 {
+        font-size: 16px;
+        padding: 5px 0 0 0
+    }
+    .form-footer-class {
+        margin-top: 30px
+    }
+    .partners-box-footer p {
+        font-size: 14px
+    }
+    .copyright-content {
+        padding: 20px 0
+    }
+    .partners-box-footer img {
+        max-width: 60px!important;
+        display: inline-block
+    }
+    .our-team {
+        padding-bottom: 20px
+    }
+    .body-x .working-title {
+        margin-top: 0px
+    }
+    .about-sd,
+    .add-map-sd,
+    .our-team-bgimg,
+    .our-work,
+    .port-upper,
+    .sd-contact,
+    .sd-process,
+    .service-sd-blog,
+    .service_details {
+        padding: 30px 0
+    }
+    .about-sd,
+    .add-map-sd,
+    .app-develop,
+    .awesome-webdev,
+    .imp-ecommerce,
+    .ind-served,
+    .mob-appp-services,
+    .mob-dev-services,
+    .our-team-bgimg,
+    .our-work,
+    .port-upper,
+    .right-solutions,
+    .sd-contact,
+    .sd-process,
+    .section-top-content,
+    .service-sd-blog,
+    .service_details,
+    .technology {
+        padding: 30px 0
+    }
+    .text-proccess-headins-green h2 {
+        font-size: 18px
+    }
+    .btn-o {
+        height: 40px;
+        line-height: 28px!important
+    }
+    .service_details_wrap .content-img {
+        margin: 10px 0
+    }
+    .imp-content p {
+        font-size: 14px;
+        line-height: 23px
+    }
+    .imp-content {
+        background: #6772e5;
+        padding: 15px 20px
+    }
+    .service_details_wrap h3 {
+        font-size: 18px
+    }
+    .techlist-inner ul li img {
+        max-width: 50px
+    }
+    .slick-dots li a,
+    .slick-dots li::after,
+    .slick-dots li::before {
+        height: 3px;
+        margin-top: -1.5px
+    }
+    .advantages-hiring-list span {
+        font-size: 14px
+    }
+    .advantages-hiring .row {
+        margin-top: 20px
+    }
+    .advantages-hiring-list span:last-child {
+        padding-bottom: 0;
+        display: inline-block;
+        width: 100%
+    }
+}
+
+@media(max-width:480px)
+{
+
+
+    /**********************14/7/2020*********************/
+
+    .ecommerce-outer .col-md-4 {
+        width: 100%;
+    }
+
+    .ecommerce-outer .col-md-4+.col-md-4 {
+        margin-top: 30px;
+    }
+
+    .technical-box-outer > div {
+        width: 100%;
+    }
+
+    .technical-box-outer > div+div {
+        margin-top: 30px;
+    }
+
+    .ecommerce-parent h3 {
+        padding: 10px;
+    }
+
+    /**********************14/7/2020 Ends*****************/
+
+    .display-none-responsive {
+        display: none!important
+    }
+    .new-sadfsadsa {
+        width: 100%!important
+    }
+    .development-need .platform-list li span img {
+        max-width: 45px
+    }
+    .development-need .platform-list li span {
+        margin-top: 0
+    }
+    .crcle::before {
+        width: 15px
+    }
+    .crcle::after {
+        width: 15px
+    }
+    .f-right {
+        padding-right: 15px
+    }
+    .time-ttl.text-right {
+        padding-left: 15px
+    }
+    .header-ttl.sd {
+        text-align: right;
+        padding-right: 15px
+    }
+    .header-ttl.clent {
+        padding-left: 15px
+    }
+    .time-ttl {
+        font-size: 12px
+    }
+    .timeline-inner::after {
+        width: 15px;
+        margin-left: -7.5px
+    }
+    .slick-dots li.slick-active button {
+        width: 35px;
+        height: 35px;
+        font-size: 14px
+    }
+    .slick-dots li button {
+        font-size: 13px;
+        width: 30px;
+        height: 30px
+    }
+    .copyright-content .social-media li a {
+        line-height: 16px
+    }
+    .mobile-menu-last.menu-opened ul.menu > li:first-child {
+        padding-top: 10px
+    }
+}
+
+@media(max-width:450px) {
+    .icon-process-heading img {
+        max-width: 90px
+    }
+    p {
+        font-size: 14px
+    }
+    .fact-wrap {
+        font-size: 15px
+    }
+    .txt-sm {
+        font-size: 11px;
+        padding: 7px 10px
+    }
+    .title {
+        padding: 0
+    }
+    .form-footer-class {
+        padding-top: 10px;
+        padding-bottom: 10px
+    }
+    .form-footer-class label {
+        font-size: 13px
+    }
+    .logo-wrap {
+        width: 80px;
+        height: 80px;
+        top: 8px
+    }
+    .btn-read-more {
+        font-size: 12px
+    }
+    .gallery_new ul li {
+        padding: 15px
+    }
+    .heading-particjs h2 {
+        font-size: 18px;
+        line-height: 24px
+    }
+    .designs-work-box {
+        height: 350px;
+        margin-bottom: 5px
+    }
+    .boutus-facts-list li {
+        width: 50%
+    }
+    .text-center-sm {
+        text-align: center!important
+    }
+}
+
+@media(max-width:414px) {
+    .pi-prnt {
+        max-width: 330px
+    }
+    .blog .card {
+        margin: 15px 0 0 0
+    }
+    .aboutussection {
+        background-size: 350px
+    }
+    .service-detils-img.w-half-ipad {
+        width: 100%
+    }
+    .technological-box a {
+        width: 100%;
+        margin: 0 0 15px
+    }
+    .advantages-hiring-list {
+        padding-left: 0;
+        padding-right: 0
+    }
+    .advantages-hiring .row {
+        padding-bottom: 0
+    }
+    .gallery ul.tb-projects li {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0
+    }
+    .cstm-para,
+    .ind-served p,
+    .ind-specific p,
+    .mob-appp-services p.tp-para,
+    .mob-dev-services p,
+    .our-process p,
+    .sec-contetnt1 p,
+    .srr-webd p,
+    .technology p,
+    .tpp-para {
+        max-width: 800px;
+        margin: 0 auto;
+        font-size: 14px;
+        line-height: 24px;
+        max-width: 100%;
+        font-weight: 300;
+        text-align: center
+    }
+    .project-idea h3 {
+        font-size: 18px;
+        margin-top: 7px
+    }
+    .getstarted {
+        font-size: 11px;
+        padding: 8px 15px
+    }
+    .text-proccess-headins-green h2 {
+        font-size: 16px
+    }
+    .service_details_wrap .content-img img {
+        max-width: 230px
+    }
+    .techlist-inner {
+        margin: 10px 0
+    }
+    .sec-contetnt1 h2 {
+        font-size: 20px
+    }
+    .imp-content p {
+        font-size: 13px;
+        line-height: 20px
+    }
+    .service-box i {
+        font-size: 20px;
+        width: 50px;
+        height: 50px;
+        padding-top: 12px
+    }
+    .awesome-webdev h2,
+    .head-2,
+    .ind-specific h2,
+    .mob-appp-services h2,
+    .mob-dev-services h2,
+    .our-process h2,
+    .section-service h2,
+    section.development-need.typeweb-d h2 {
+        font-size: 20px
+    }
+    .btn-submit {
+        max-width: 130px;
+        font-size: 13px;
+        padding: 6px 0
+    }
+    .typeweb-d img.webd-s {
+        max-width: 70px
+    }
+    .service h4 {
+        font-size: 16px
+    }
+    .development-need,
+    .ind-specific,
+    .mob-devsec,
+    .our-process,
+    .project-idea,
+    .section-process,
+    .section-service {
+        padding: 30px 0
+    }
+    .service-inq-form .form-input {
+        margin-bottom: 10px
+    }
+    .service-inq-form label {
+        font-size: 14px
+    }
+    .sec-contetnt1 p {
+        line-height: 20px;
+        font-size: 13px
+    }
+    .working-title p.para-2 {
+        width: 100%
+    }
+    .sd-blog {
+        padding: 30px 15px
+    }
+    .title p {
+        font-size: 15px
+    }
+    .gallery ul {
+        padding-top: 15px;
+        position: relative
+    }
+    .top-sec-relatsive {
+        min-height: 230px
+    }
+    .industry-small-box ul li {
+        width: 70%
+    }
+    h1.tp-caption.customout.start {
+        font-size: 18px!important;
+        line-height: normal!important;
+        left: 10px!important
+    }
+    h1.tp-caption.customout.start {
+        font-size: 25px!important;
+        line-height: normal!important;
+        left: 21%!important
+    }
+    .aboutus-facts-list li span {
+        font-size: 14px
+    }
+    .working-title p:not(.para-2) {
+        font-size: 16px
+    }
+    .working-title p {
+        max-width: 100%
+    }
+    .aboutus-facts-list strong {
+        font-size: 13px
+    }
+    .contact-x .title h1 {
+        font-size: 22px
+    }
+    .paddingspeash0px {
+        height: 215px
+    }
+    .detial-content-box {
+        margin-bottom: 10px
+    }
+    .res-margin-indus {
+        margin-top: 0
+    }
+    .aboutus-facts-list li span {
+        margin: 0
+    }
+    .aboutus-facts-list li {
+        margin-bottom: 5px
+    }
+    .aboutus-facts-list li {
+        margin-bottom: 5px
+    }
+    .fotter-slaes-boxes.margintp20px {
+        margin-top: 15px
+    }
+    .icon-process-heading img {
+        max-width: 60px
+    }
+    .icon-process-heading {
+        position: absolute;
+        top: -15px;
+        right: -10px
+    }
+    .box-process {
+        padding: 15px 0
+    }
+    .padding50pxbtm {
+        padding-bottom: 15px
+    }
+    .start-project .working-title h5 {
+        margin: 0
+    }
+    .start-project .title {
+        padding: 0
+    }
+    .partners-box-footer img {
+        max-width: 50px!important
+    }
+    .partners-box-footer h2 {
+        font-size: 16px;
+        padding: 0
+    }
+    .partners-box-footer p {
+        padding: 0;
+        font-size: 14px
+    }
+    .partners-box-footer.margintp20px {
+        margin-top: 20px
+    }
+    .partners-box-footer.margintp40px {
+        margin-top: 20px!important
+    }
+    .title h1 {
+        font-size: 20px
+    }
+    .form-group {
+        margin-bottom: 15px
+    }
+    .form-footer-class {
+        margin-top: 25px;
+        padding: 30px 10px
+    }
+    .Blog-heading-tp {
+        font-size: 18px
+    }
+    .working-title h5 {
+        font-size: 20px
+    }
+    .working-title .title.text-left {
+        margin-top: 5px
+    }
+    .working-title .title.text-left p {
+        font-size: 18px
+    }
+    .txt-sm {
+        font-size: 12px;
+        font-weight: 500;
+        padding: 7px 10px
+    }
+    .main-footer-form .padding40px0px {
+        padding-bottom: 20px
+    }
+    .copyright-content {
+        padding: 30px 0
+    }
+    #blog-id-bg {
+        padding-bottom: 30px
+    }
+    .text-proccess-headins h2 {
+        font-size: 16px
+    }
+    .text-proccess-headins p {
+        text-align: center;
+        font-size: 15px
+    }
+    .btn-read-more {
+        font-size: 13px
+    }
+    .our-team .pic {
+        max-width: 120px;
+        margin: 0
+    }
+}
+
+@media(max-width:767px) {
+    .dropof-services ul {
+        padding: 0;
+    }
+    .about-us-boxes .bx-content-inner {
+        text-align: left;
+        border-bottom: 1px solid #f2f2f2
+    }
+    .aboutus-facts-list .bx-content-inner span {
+        display: inline-block;
+        margin: 0 20px 5px 0;
+        width: 140px
+    }
+    .aboutus-facts-list .bx-content-inner span:after {
+        left: 8%
+    }
+    .list-imgbox.text-center a {
+        background: #fff;
+        padding: 15px 15px 25px 15px;
+        box-shadow: 0 2px 7px 0 rgba(0, 0, 0, .1);
+        border-radius: 0;
+        transition: transform 1s
+    }
+    .list-imgbox.text-center a {
+        margin-bottom: 1px
+    }
+    .aboutussection,
+    .section-industries,
+    .section-process,
+    .section-testimonials,
+    .site-blog,
+    .start-project {
+        padding: 30px 0
+    }
+    .site-blog {
+        margin-top: 0
+    }
+    section.site-blog .col-sm-12 .title h2 {
+        line-height: 30px;
+    }
+    .title h1,
+    .title h2,
+    .title h3 {
+        font-size: 22px
+    }
+    .sub-head {
+        font-size: 16px
+    }
+    a.view-all-project {
+        margin: 10px 0 0
+    }
+    .aboutus-facts-list {
+        margin-top: 15px
+    }
+    .sub-head {
+        margin-bottom: 20px
+    }
+    .working-title a {
+        margin-bottom: 0
+    }
+    .title h1,
+    .title h2,
+    .title h3 {
+        margin-bottom: 10px
+    }
+    .height-auto {
+        min-height: 260px
+    }
+    .partners-box-footer.office-laction {
+        margin-top: 20px
+    }
+
+    /******************14/7/2020********************/
+
+    .details-content-emerging .emerging-title h2 {
+        font-size: 20px;
+    }
+
+    .web-development-text {
+        font-size: 16px;
+    }
+
+    .technological-box-1 a {
+        width: 100%;
+    }
+
+    .technological-box-1 a+a {
+        margin-top: 30px;
+    }
+
+    /******************14/7/2020 Ends*****************/
+
+}
+
+@media only screen and (max-width:700px) {
+	
+	body.homebody.body-x.pageladder.overflow-hidden div#top-container-def {
+		top: 0;
+	}
+	
+	body.homebody.aboutus--pg.overflow-hidden div#top-container-def {
+		top:0;
+	}
+	
+	#top-container-def{
+		top: 40px;
+	}
+	
+}
+
+@media only screen and (max-width:575px) {
+	/* .banner-image {
+		padding-top:150px;
+	} */
+	
+}
+
+@media only screen and (max-width:466px) {
+	
+/**********11-2-2020**************/
+.our-info span a {
+    font-size: 11px;
+}
+
+.service-detils-img {
+    width: 32%;
+}
+
+/**********11-2-2020-ends**************/
+
+
+
+.our-info span {
+    padding: 0 4px;
+}
+
+.our-info span a img {
+    width: 15px;
+    margin-top: -2px;
+    margin-right: 3px;
+}
+	
+}
+
+@media only screen and (max-width:386px) {
+	
+    /********11-02-2020***********/
+
+	#top-container-def {
+		top: 50px;
+	}
+
+    /********11-02-2020-ends***********/
+	
+}
+
+@media only screen and (max-width:369px) {
+	/* .banner-image {
+		padding-top:160px;
+	} */
+}
+
+@media(max-width:360px) {
+    .header-ttl {
+        font-size: 15px;
+    }
+}
+
+/********************21-07-2020************************************************/
+
+@media(min-width:768px) and (max-width:1024px){
+    
+   .banner-img-text {
+    position: absolute;
+    left:15px;
+    top:65%;
+} 
+.banner-img-text h1 {
+    font-size: 26px;
+    padding-top: 0px;
+}
+.aboutus-facts-list {
+    display: flex;
+}
+.card {
+    max-height: 460px;
+}
+}
+@media only screen and (min-width:731px) {
+    .banner-img-text {
+    top: 50%;
+}
+.banner-image{
+    margin-bottom:0px;
+}
+.technical-box-content {
+    box-shadow: 1px 2px 3px #dedede;
+    min-height: 200px;
+}
+.list-imgbox.text-center {
+    margin: 15px 0px 0px;
+}
+}
+@media(min-width:411px) and (max-width:730px) {
+   /* .banner-img-text {
+    top: 130px;
+}  */
+.aboutussection, .section-industries, .section-process, .section-testimonials, .site-blog, .start-project{
+    margin-top:40px;
+}
+.banner-btns {
+    text-align: center;
+}
+.banner-image{
+    margin-bottom:0px;
+}
+.list-imgbox.text-center {
+    margin: 15px 0px 0px;
+}
+partners-box-footer {
+    margin-top: 20px !important;
+}
+
+.contant-onimages-about {
+    position: initial;
+    margin: 20px 0px;
+    padding: 20px 0px;
+}
+.Technologies .spc-bt-30 {
+    width: 100%;
+    min-height: auto;
+}
+
+}
+
+@media(min-width:320px) and (max-width:620px) {
+/*     
+    
+    .banner-img-text {
+   
+    top: 170px;
+}
+     */
+       .banner-img {
+        display: block;
+    }
+    #top-container-def {
+        border-bottom: 1px solid #e9e9e9;
+    }
+    .banner-img-text h1 {
+        font-size: 21px;
+        line-height: 1.5;
+        margin-bottom: 20px;
+
+    }
+    .banner-img-text p {
+        font-size: 16px;
+        line-height: 1.5;
+        margin-bottom: 15px;
+    }
+    .banner-img-text .new-banner-text {
+        letter-spacing: 1px;
+        margin-bottom: 15px;
+        line-height: 1.5;
+    }
+    .banner-image {
+        padding: 0px 0;
+        padding-left: 15px;
+        padding-right: 15px;
+        min-height: 100px;
+        padding-bottom:0px;
+    }
+    .banner-img {
+        display: block;
+        margin-top: 0px;
+    }
+    .view-all-project{
+        text-align:center;
+    }
+    .list-imgbox.text-center {
+        margin: 15px 0px 0px;
+    }
+    .partners-box-footer img {
+        max-width: 40px!important;
+        margin-bottom: 10px;
+    }
+    .partners-box-footer {
+        margin-top: 20px !important;
+    }
+
+    /*********************************  about us*************************/
+    .our-team-bgimg .title {
+        padding: 0px 15px;
+    }
+    .contant-onimages-about {
+        position: initial;
+        margin: 15px 0px;
+        padding: 20px 0px;
+    }
+
+    /*********************************  web service *************************/
+    section.web-design-technology {
+        background: #f6f6f6;
+        padding: 0px;
+    }
+    section.ui-ux-design-agency.ui-ui-div {
+        margin-bottom: 0px;
+    }
+    section.web-design-technology.web-tech {
+        padding-top: 30px;
+    }
+    .technical-box-content p {
+        margin-bottom: 0px;
+    }
+    .advantages-hiring .technical-box-content {
+        margin-bottom: 0px;
+    }
+     .develop_robust_section, .service-detils {
+        padding: 0;
+    }
+
+    .details-content-emerging.text-center {
+        margin-top: 15px;
+    }
+    .Technologies .spc-bt-30 {
+        width: 100%;
+        min-height: auto;
+    }
+    .beckend-technology-outer .inner-technology {
+        padding: 15px;
+    }
+    .beckend-technology-outer h3 {
+        margin-top: 30px;
+        font-size: 18px;
+        text-align: center;
+    }
+    .inner-fronted {
+        margin-bottom: 0px;
+    }
+    .fronted-technology-outer h3 {
+        font-size: 18px;
+        text-align: center;
+    }
+    section.use-technological.bg-gray-white.Technologies {
+        margin-top: 30px;
+    }
+    section.awarded-website {
+        padding: 30px 0px;
+    }
+    section.we-offer  {
+        padding: 0px 0px;
+        padding-bottom: 30px;
+    }
+    .emerging-title h1 {
+        font-size: 20px;
+    }
+    .technical-box-content h3 {
+        font-size: 18px;
+    }
+    .awarded-globally.text-center {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .agency-title h2 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+    .details-content .title h2{
+         font-size: 22px;
+        margin-bottom: 20px;
+
+    }
+    .awarded-title h2 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+    .awarded-details-strip {
+        line-height: 1.6;
+        margin-bottom:20px;
+    }
+    .agency-details-strip {
+        line-height: 1.6;
+    }
+    section.ui-ux-design-agency {
+        margin-bottom: 30px;
+    }
+    .eCommerce-text {
+        line-height: 1.6;
+    }
+    .inner-fronted p {
+        font-size: 14px;
+        line-height: 1.6;
+        padding: 0px 15px;
+    }
+    .inner-technology {
+        height: auto;
+        margin-top: 20px;
+        padding: 0px 15px;
+    }
+    .emerging-content.emerging-econtent {
+        padding: 0px 0px;
+        padding-top: 15px;
+    }
+    .ecommmorce-web{
+        padding: 15px 0px;
+    }
+
+    /*************************web development mobile*****************/
+    .certified-website-development {
+        padding: 30px 0px;
+
+    }
+    .we-offer-web.emerging-content.pt-0 {
+        padding-top: 0px;
+    }
+    .certified-website-development h2 {
+        font-size: 22px;
+       text-align: center;
+    }
+
+    section.certified-website-development h3 {
+       text-align: center;
+    }
+    section.certified-website-development {
+        text-align: left;
+    }
+    .develop_robust_content p {
+        line-height: 1.6;
+        font-size: 14px;
+    }
+    .complete-web-development p {
+        margin-bottom: 0px;
+    }
+    .complete-web-development h2 {
+        font-size:22px;
+
+    }
+    .custom-wen-development h2 {
+        font-size: 22px;
+    }
+    .complete-web-development h3 {
+            font-size: 18px;
+    }
+    .custom-wen-development {
+        margin-bottom: 15px;
+    }
+    .mobile-app-development .ecommerce-parent {
+        
+        min-height: auto;
+    }
+    .awarded-globally {
+        font-size: 18px;
+    }
+    .online-marketing {
+        padding: 0px 0px;
+    }
+    .our-Result{
+        padding:0px;
+    }
+    .our-Result .ecommerce-parent {
+        min-height: auto;
+    }
+
+    .our-Result .ecommerce-parent {
+        margin-top: 15px;
+    }
+    .digital-marketing-service {
+        margin-bottom: 0px;
+    }
+    .our-Result .details-content-emerging.text-center {
+        margin-top: 0px;
+    }
+    .ecommerce-parent h3 {
+        padding: 10px;
+        font-size: 18px;
+    }
+    .readmore {
+        position: absolute;
+        right: 15px;
+    }
+
+    /*****************career setion****************************/
+    .current-opening {
+        padding: 0px 0px;
+    }
+
+}
+
+@media(min-width:400px) and (max-width:620px){
+  .banner-img {
+   display: none;
+}
+.banner-image {
+    margin-bottom: 30px;
+}
+.partners-box-footer img {
+    max-width: 40px !important;
+}
+}
+@media(min-width:320px) and (max-width:386px) {
+    .our-info span a img {
+    width: 12px;
+}
+.top-header .container {
+    padding: 0px;
+}
+ 
+}
+@media(max-width:320px) {
+    .top-header .container {
+    padding: 0px;
+}
+}
+
+
+
+
+/*****StartDesigns New Page Design******/
+
+
+/*------responsive wordpress/prestashop/php/dotnet----*/
+@media screen and (max-width: 767px){
+
+    .mainservicetopbanner h3{
+        line-height: 30px;
+    }
+    .services-client-main{
+        margin-top: 15px;
+    }
+    .services-userimages img {
+        border-radius: 10px;
+    }
+    .services-userimages{
+        background: #f7f7f7;
+        box-shadow: none;
+    }
+    .recentwork-section .title h2 {
+        margin-bottom: 30px;
+        line-height: 30px;
+    }
+    section.section-testimonials .title h2,
+    section.our-process .title h2 {
+        line-height: 30px !important;
+    }    
+    section.webflowfeatures_services .title h3 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    section.webflowfeatures_services .row.weoffer-row1 .shopifyyBox {
+        min-height: 320px;
+    }
+    section.webflow-platform.wp-platform .advantages-hiring-list {
+        padding-top: 0 !important;
+    }
+    section.section-testimonials.presta_tesimony .services-userimages {
+        background: #fff;
+    }
+    section.webflowfeatures_services.presta_box .title h3{
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .user-details-services{
+        right: -60px;
+        bottom: 10px;
+        padding: 12px;
+    }
+    .user-details-services h4 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    section.webflowfeatures_services.feature_platform .title h3 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .service-flex {
+        display: flex;
+        align-items: inherit;
+        flex-direction: column;
+    }
+    .mainservicetopbanner .btn-contactsupport,
+    .service-topbanner .btn-contactsupport-blk {
+        margin-bottom: 20px;
+    }
+    .rightside-topbanner {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .mainservicetopbanner p {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .webflow-platform .row.alignitemcenter {
+        flex-direction: column;
+    }
+
+    .Section.service-awardwinning .row.service-flex{
+        flex-direction: column; 
+    }
+    .recentwork-section .row.recentworkRow .col-md-3 {
+        margin-bottom: 30px;
+    }
+    section.webflowfeatures_services .row.weoffer-row1 .col-md-4 {
+        margin-bottom: 30px;
+    }
+    section.webflowfeatures_services .row.weoffer-row2 .col-md-4:last-child{
+        margin-bottom: 0 !important;
+    }
+    section.webflowfeatures_services .row.weoffer-row2 .col-md-4 {
+        margin-bottom: 30px;
+    }
+    .section-testimonials .row.dflex.services-client-main {
+        flex-direction: column;
+    }
+    .services-client-main p.description{
+        margin-top: 40px;
+    }
+    section.service-topbanner {
+        padding: 50px 0px 70px;
+    }
+    section.service-awardwinning .col-md-5 {
+        order: 2;
+        margin-top: 30px;
+    }
+    .webflow-platform .advantages-hiring-img {
+        margin-top: 30px;
+    }
+    .services-client-main p.description {
+        font-size: 22px;
+        line-height: 30px;
+        font-weight: 500;
+    }
+    .mainservicetopbanner .banner_lst ul li {
+        list-style-type: disc;
+        margin-right: 20px;
+        font-size: 12px;
+    }
+
+    section.webflowfeatures_services .col-md-3 {
+        margin-bottom: 30px;
+    }
+    section.webflowfeatures_services .row.weoffer-row1 {
+        margin-bottom: 0;
+    }
+    section.our-process.pad-bt-60.services-process .title p {    
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+    .services-process .process-slide-conainer .flex-row .process-slide-content {
+        padding: 0px 20px 0px 20px !important;
+    }
+    section.section-testimonials.testimonials.wpexperts .whychooseBox
+    {
+        max-width:100% !important;
+        padding: 20px 20px;
+        margin-bottom: 30px;
+    }
+    section.section-testimonials.testimonials.advantage_section .advantageBox{
+        max-width:100% !important;
+        margin-bottom: 30px;
+    }
+    section.section-testimonials.testimonials.wpexperts .whychooseBox:last-child,
+    section.section-testimonials.testimonials.advantage_section .advantageBox:last-child {
+        margin-bottom: 0;
+    }
+    section.service-awardwinning .mainservicetopbanner h2, .webflow-platform .mainservicetopbanner h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    section.service-awardwinning .mainservicetopbanner h3, .webflow-platform .mainservicetopbanner h3{
+        line-height: 26px;
+    }
+    section.recentwork-section .title h5{
+        line-height: 26px;
+        margin-top: 0;
+    }
+    
+    section.webflowfeatures_services .row.weoffer-row2 .col-md-3:last-child {
+        margin-bottom: 0;
+    }
+    .recentwork-section .row.recentworkRow .col-md-3:last-child {
+        margin-bottom: 0;
+    }
+    section.section-testimonials.testimonials.wpexperts, .webflow-platform,
+     section.webflowfeatures_services,.recentwork-section, section.service-awardwinning{
+        padding: 30px 0;
+    }
+    section.service-awardwinning .mainservicetopbanner p, .webflow-platform .mainservicetopbanner p {
+        margin-bottom: 10px;
+    }
+    .advantages-hiring-img img{
+        width: 100%
+    }
+    .floating{
+            margin: 0 ;
+        }
+
+    section.section-testimonials.testimonials.advantage_section .title{
+        padding: 0 15px;
+    }
+    section.webflow-platform.expertise-section .alignitemcenter {
+        display: block;
+    }
+    .developmnt_services .developmnt_services_box{
+        margin-left: 15px;
+        flex-direction: column;
+        margin-right: 15px;
+        padding: 0;
+    }
+    .developmnt_services .service_box_data {
+        border-bottom: 1px solid #e5e5e5;
+        padding-bottom: 10px;
+        padding-top: 30px;
+    }
+    .developmnt_services .service_box_data:last-child{
+        padding-bottom: 30px;
+    }
+    .section-reason-choose span.sub-head.spc-bt-sub-head,
+    section.section-testimonials.testimonials.advantage_section .title .sub-head,
+    section.webflowfeatures_services.php_solutions .title h3 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .section-reason-choose .title {
+        padding: 0px 15px;
+        margin-bottom: 30px;
+    }
+    .section-reason-choose span.sub-head.spc-bt-sub-head,
+    section.section-testimonials.testimonials.advantage_section .title .sub-head {
+        padding: 0;
+        margin-top: 0;
+    }
+    section.expertise-section .title h2 {
+        margin-bottom: 30px;
+        line-height: 30px;
+    }
+    .developmnt_services .developmnt_services_box{
+            margin-top: -30px;
+    }
+    .owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot{
+        width: 17px;
+    }
+    .section-reason-choose{
+        padding: 30px 0;
+    }
+    section.webflow-platform.asp-section .alignitemcenter {
+        flex-direction: column;
+    }
+    section.webflow-platform.asp-section .alignitemcenter .col-md-6:first-child {
+        order: 2;
+    }
+    section.section-testimonials.whyus_section .col-md-3.whyusBox{
+        max-width: 100%;
+        padding: 20px;
+        margin-bottom: 30px
+    }
+    section.section-testimonials.whyus_section .col-md-3.whyusBox:last-child {
+        margin-bottom: 0;
+    }
+    section.webflow-platform.asp-section .title h2{
+        line-height: 30px;
+        margin-bottom: 30px;
+    }
+    section.section-testimonials.whyus_section .col-md-4.whyusBox {
+        margin-bottom: 30px;
+        padding: 20px;
+    }
+    section.section-testimonials.whyus_section .col-md-4.whyusBox:last-child {
+        margin-bottom: 0;
+    }    
+    section.section-testimonials.testimonials.wpexperts.presta_choose .title h2 {
+        line-height: 30px;
+    }
+    section.section-testimonials.testimonials.wpexperts.presta_choose .advantageBox{
+        min-height: 336px;
+    }
+    section.webflow-platform.asp-section .serving_data h4 {
+        font-size: 16px;
+    }
+    section.webflow-platform.asp-section .serving_data p {
+        font-size: 14px;
+    }
+    section.our-process.pad-bt-60.services-process .title h3 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    section.section-testimonials.presta_tesimony .title h2{
+        line-height: 28px;
+    }
+    section.webflowfeatures_services.presta_box .row.weoffer-row1 .damlBox{
+        min-height: 425px;
+    }
+    section.section-testimonials.testimonials.advantage_section.php_page .advantageBox {
+        min-height: auto;
+    }
+
+
+
+    /*-------------Drupal development--------------*/
+    section.service-awardwinning.drupal_award .col-md-6:first-child {
+        order: 2;
+        margin-top: 30px;
+    }
+    section.webflowfeatures_services.drupal_box .title h3 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    section.webflow-platform.drupal-platform .alignitemcenter-one,
+    section.webflow-platform.drupal-platform .alignitemcenter-two {
+        flex-direction: column;
+    }
+    section.webflow-platform.drupal-platform .alignitemcenter-one .col-md-6:first-child {
+        order: 2;        
+    }
+    .drupal-right-expertise {
+        background-image: none;
+        display: none;
+    }
+    section.drupal_expertise .owl-dots{
+        position: static;
+    }
+    section.drupal_expertise .item {
+        margin-right: 44px;
+        margin-top: -70px;
+    }
+    section.drupal_expertise .drupal-left-expertise {
+        padding: 20px;
+        box-shadow: 0px 4px 4px 0px rgb(0 0 0 / 25%);
+        margin-bottom: 75px;
+    }
+    section.drupal_expertise{
+        padding: 30px 0;
+    }
+    section.webflow-platform.drupal-platform .mainservicetopbanner .para1 {
+        margin-bottom: 0 !important;
+    }
+    section.webflow-platform.drupal-platform .title h2{
+        margin-bottom: 30px;
+    }
+    /*-------------Drupal development ends--------------*/
+
+    section.alma_Integration_services .headerpanel-Integration h3 {
+    width: 72%;
+    }
+    .headerpanel-soluction h3{
+        width: 72%;
+    }
+    section.drupal_expertise .title h2{
+        line-height: 30px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 991px){
+    section.section-reason-choose.wp-devlop-choose .advantageBox{
+        min-height: 350px;        
+    }
+        .accordion-faq{
+        position: relative;
+        padding-right: 40px;
+    }
+    .accordion-faq:after{
+        position: absolute;
+        right: 15px;
+        top: 20px;
+    }
+    section.soluction-section.bg-gray-white.mango-page .row .col-md-6:nth-child(3) .soluction-panel,
+    section.soluction-section.bg-gray-white.fr-section .row .col-md-6:nth-child(3) .soluction-panel{
+        margin-bottom: 30px;
+    }
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+    section.service-topbanner {
+       padding: 130px 0px 70px;
+    }
+    .services-userimages{
+        width: 85%;
+    }
+   /* section.service-topbanner.mangopayorange .row.service-flex .col-md-6 {
+        width: 50%;
+    }*/
+    section.almapayementfeatures_services .row.dflex-features {
+        flex-wrap: wrap;
+    }
+    section.almapayementfeatures_services .row.dflex-features .col-md-3{
+        margin-bottom: 30px;       
+    }
+    section.almapayementfeatures_services .row.dflex-features .col-md-3:nth-child(3),
+    section.almapayementfeatures_services .row.dflex-features .col-md-3:nth-child(4) {
+        margin-bottom: 0;
+    }
+    section.service-awardwinning.bg-gray-white.almaa .row.service-flex .col-md-6:first-child {
+        order: 2;
+        margin-top: 30px;
+    }
+    section.soluction-section.bg-gray-white .row .col-md-6:last-child .soluction-panel {
+        margin-bottom: 0;
+    }
+    .payment_features_new{
+        min-height: 250px;
+    }
+    section.service-awardwinning.bg-gray-white.almaa .row.service-flex .col-md-6 {
+        margin-bottom: 30px;
+    }
+    section.service-awardwinning.bg-gray-white.almaa .row.service-flex .col-md-6:last-child{
+        margin-bottom: 0;
+    }
+    section.webflowfeatures_services .row.weoffer-row2 .damlBox {
+        min-height: 220px;
+    }
+    section.webflowfeatures_services .row.weoffer-row1 .damlBox {
+        min-height: 248px;
+    }
+/*    section.service-topbanner .row.service-flex .col-md-7 {
+        width: 50%;
+    }*/
+       
+   
+    section.payementfeatures_services .row.dflex-features {
+        flex-direction: column;
+    }
+    section.payementfeatures_services .row.dflex-features .col-md-6:first-child{
+        order:2;
+    }
+    .aboutmengopaybgbanner{
+        background-image: none;
+    }
+    section.service-awardwinning.aboutmengopaybgbanner {
+        padding: 70px 0 0;
+    }
+    .mainservicetopbanner .btn-contactsupport,
+    .service-topbanner .btn-contactsupport-blk {
+        margin-bottom: 0px;
+    }    
+     section.service-topbanner.wpdevbannerbg .row.service-flex,
+     section.service-topbanner.bgdarblue .row.service-flex{
+        flex-direction: column;
+    }
+     section.service-topbanner.wpdevbannerbg .row.service-flex .col-md-6:first-child,
+     section.service-topbanner.bgdarblue .row.service-flex .col-md-6:first-child{
+        margin-bottom: 30px;
+     }
+     section.service-topbanner.shopifygreen .row.service-flex {
+        flex-direction: column;
+    }
+    section.service-topbanner.shopifygreen .row.service-flex .col-md-6:first-child{
+        margin-bottom: 30px;
+     }
+    section.webflowfeatures_services .row.weoffer-row1 .shopifyyBox {
+        min-height: 260px;
+    }
+    
+    section.section-testimonials.testimonials.wpexperts .whychooseBox,
+    section.section-testimonials.testimonials.advantage_section .advantageBox
+    {   
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-bottom: 30px;
+        max-width: 100%;  
+        width: 46%;  
+    }
+    /*section.service-topbanner.mangopayorange a.btn.btn-contactsupport-blk {
+        margin-bottom: 20px;
+    }*/
+    section.webflowfeatures_services.presta_box .row.weoffer-row1 .damlBox {
+        min-height: 270px;
+    }
+    section.webflowfeatures_services.presta_box .row.weoffer-row2 .damlBox{
+        min-height: 240px;
+    }
+    section.section-testimonials.testimonials.advantage_section .advantageBox:nth-child(3),
+    section.section-testimonials.testimonials.advantage_section .advantageBox:nth-child(4){
+        margin-bottom: 0;
+    }
+    .row.recentworkRow .col-md-3{
+        margin-bottom: 30px;
+    }
+    .recentwork-section .row.recentworkRow .col-md-3:nth-child(3), 
+    .recentwork-section .row.recentworkRow .col-md-3:nth-child(4) {
+        margin-bottom: 0 !important;
+    }
+    .mainservicetopbanner .banner_lst ul li {    
+        margin-right: 30px;
+        font-size: 15px;
+    }
+    section.webflowfeatures_services .row.weoffer-row1 .col-md-3:nth-child(1), 
+    section.webflowfeatures_services .row.weoffer-row1 .col-md-3:nth-child(2), 
+    section.webflowfeatures_services .row.weoffer-row2 .col-md-3:nth-child(1), 
+    section.webflowfeatures_services .row.weoffer-row2 .col-md-3:nth-child(2) {
+        margin-bottom: 30px;
+    }
+    section.webflowfeatures_services .row.weoffer-row1 .col-md-4,
+    section.webflowfeatures_services .row.weoffer-row2 .col-md-4{
+        width: 80%;
+        margin: 0 auto 30px;        
+    }
+    section.webflowfeatures_services .row.weoffer-row1 .col-md-4:last-child,
+    section.webflowfeatures_services .row.weoffer-row2 .col-md-4:last-child{
+        margin-bottom: 0;
+    }
+    .advantages-hiring-img img {
+        width: 100% !important;
+    }
+    section.webflow-platform.drupal-platform .advantages-hiring-img img,
+    section.service-awardwinning.drupal_award .advantages-hiring-img img {
+        width: 70% !important;
+    }
+    .floating{
+        margin: 0 ;
+    }
+    section.service-awardwinning .service-flex,
+    section.webflow-platform.wp-platform .alignitemcenter {
+        flex-direction: column;
+    }
+    section.webflow-platform.presta-platform .alignitemcenter{
+        flex-direction: column;
+    }
+    section.webflow-platform.presta-platform .alignitemcenter .col-md-6:first-child{
+        margin-bottom: 30px;
+    }
+    section.service-awardwinning.presta_award .service-flex .col-md-5:first-child{
+        margin-bottom: 30px;
+    }
+    section.service-topbanner.prestashopskyblue .row.service-flex {
+        flex-direction: column;
+    }
+     section.service-topbanner.prestashopskyblue .row.service-flex .col-md-6:first-child{
+         margin-bottom: 30px;
+     }
+    section.service-awardwinning .service-flex .col-md-5{
+        order: 2;
+    }
+    section.webflow-platform.wp-platform .alignitemcenter .advantages-hiring-img{
+        margin-top: 30px;
+    }
+    section.service-awardwinning .service-flex .btn-contactsupport{
+        margin-bottom: 0;
+    }
+    .section-reason-choose .advantageBox{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    section.section-testimonials.testimonials.advantage_section .row.advantageRow {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .section-reason-choose span.sub-head.spc-bt-sub-head {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    section.webflow-platform.asp-section .alignitemcenter {
+        flex-direction: column;
+    }
+    section.webflow-platform.asp-section .alignitemcenter .col-md-6:first-child {
+        order: 2;
+    }
+    section.section-testimonials.whyus_section .col-md-3.whyusBox {
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-bottom: 30px;
+        max-width: 100%;
+        width: 46%;
+    }
+    section.section-testimonials.whyus_section .col-md-3.whyusBox:nth-child(3),
+    section.section-testimonials.whyus_section .col-md-3.whyusBox:nth-child(4){
+        margin-bottom: 0;
+    }
+    section.section-testimonials.whyus_section .row.whyusRow {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    section.section-testimonials.whyus_section .col-md-3.whyusBox{
+        max-width: 100%;
+    }
+    section.section-testimonials.testimonials.advantage_section .title h2 {
+        margin-bottom: 40px;
+        line-height: 40px;
+    }
+   section.webflow-platform.asp-section .title h2 {
+        line-height: 40px;
+        margin-bottom: 30px;
+    }
+    section.section-testimonials.whyus_section .col-md-4.whyusBox{
+        max-width: 100%;
+    }
+    section.section-testimonials.whyus_section .row.whyusRow.tripleBox {
+        flex-wrap: initial;
+    }
+    section.almabgcolor .mainservicetopbanner h1 {
+        font-size: 40px;
+    }
+    section.alma_Integration_services .col-md-6:first-child .Integration_features_new {
+        margin-bottom: 30px;
+    }    
+
+
+    /*----------Drupal Development---------*/
+    section.service-topbanner.drupalbgcolor .col-md-6 {
+        width: 50%;
+    }
+    section.service-awardwinning.drupal_award .col-md-6:first-child {
+        order: 2;
+        margin-top: 30px;
+    }
+    section.webflow-platform.drupal-platform .title h2 {
+        margin-bottom: 40px;
+        line-height: 44px;
+    }
+    section.webflow-platform.drupal-platform .alignitemcenter,
+    section.webflow-platform.drupal-platform .alignitemcenter-one,
+    section.webflow-platform.drupal-platform .alignitemcenter-two {
+        flex-direction: column;
+    }
+    section.webflow-platform.drupal-platform .alignitemcenter-one .col-md-6:first-child {
+        order: 2;        
+    }
+    section.webflow-platform.drupal-platform .advantages-hiring-img{
+        margin-top: 30px;
+    }
+     .drupal-right-expertise {
+        background-image: none;
+        display: none;
+    }
+    section.drupal_expertise .owl-dots{
+        position: static;
+    }
+    section.drupal_expertise .item {
+        margin-right: 55px;
+        margin-bottom: 85px;        
+    }
+    section.drupal_expertise .drupal-left-expertise{
+         box-shadow: 0px 4px 4px 0px rgb(0 0 0 / 25%);
+    }
+    /*.owl-carousel.owl-drag .owl-item{
+        margin-right: 0 !important;
+    }*/
+    section.section-testimonials.reveiw_slide .testimonial .col-md-6{
+        width: 50%;
+    }
+    .services-client-main p.description{
+        font-size: 30px;
+        line-height: 40px;
+        font-weight: bold;
+        color: #454748;
+    }
+    .user-details-services {   
+        background-color: #e0166c;
+        padding: 12px 16px;    
+    }
+    section.service-topbanner .row.service-flex {
+        flex-direction: column;
+    }
+    section.service-topbanner .row.service-flex .col-md-6 {
+        width: 100%;
+    }
+    section.service-topbanner .row.service-flex .col-md-6:first-child{
+        margin-bottom: 30px;
+    }
+    section.webflowfeatures_services.drupal_box .row.weoffer-row1 .damlBox,
+    section.webflowfeatures_services.drupal_box .row.weoffer-row2 .damlBox {
+        min-height: 294px;
+    }
+    section.service-topbanner.drupalbgcolor .rightside-topbanner {
+        text-align: center;
+    }
+    section.service-topbanner.drupalbgcolor .rightside-topbanner.wpbanner-top img {
+        width: 70%;
+    }
+
+    /*----------Drupal Development end---------*/
+    
+    section.webflowfeatures_services.php_solutions .row.weoffer-row1 .damlBox, 
+    section.webflowfeatures_services.php_solutions .row.weoffer-row2 .damlBox {
+        min-height: 295px;
+    }
+    section.webflowfeatures_services.wordpress-soln .weoffer-row1 .damlBox, section.webflowfeatures_services.wordpress-soln .weoffer-row2 .damlBox {
+        min-height: 265px !important;
+    }
+    .section-reason-choose.php_page .advantageBox {
+        min-height: 432px;
+    }
+   
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px){
+    section.section-testimonials.testimonials.wpexperts .whychooseBox,
+    section.section-testimonials.testimonials.advantage_section .advantageBox{
+        max-width: 212px;
+        min-height: 308px;
+    }
+
+    
+    section.webflowfeatures_services.drupal_box .row.weoffer-row1 .damlBox {
+        min-height: 460px;
+    }
+    section.webflowfeatures_services.drupal_box .row.weoffer-row2 .damlBox {
+        min-height: 435px;
+    }
+    .mainservicetopbanner .banner_lst ul li {
+    margin-right: 35px;
+    font-size: 15px;
+}
+    
+}
+
+
+/*-----payment gateway responsive-------*/
+@media screen and (max-width: 991px){
+    .rightside-topbanner.mangopay_bg img{
+        width: 90%;
+    }
+    section.almabgcolor{
+        background: #fff !important;
+    }
+    .alma-bg-topimage {
+        margin-top: 30px;
+    }
+}
+@media screen and (max-width: 767px){
+    section.payementfeatures_services .row.dflex-features {
+    flex-direction: column;
+    }
+    section.service-topbanner.mangopayorange {
+        padding: 100px 0px 50px;
+    }    
+    .headerpanel-soluction h3{
+        width: 72%;
+    }
+    section.Platforms_section.almma {
+        padding: 30px 0;
+    }
+    section.almapayementfeatures_services .title h2 {
+        line-height: 28px;
+    }
+    section.service-awardwinning.bg-gray-white.almaa a.btn-contactsupport {
+        margin-top: 20px;
+    }
+    section.service-awardwinning.bg-gray-white.almaa .advantages-hiring-list {
+        padding-top: 0px!important;
+    }
+    section.service-awardwinning.cmi-award1 .advantages-hiring-list {
+        padding-top: 0px!important;
+    }
+    section.service-awardwinning.aboutmengopaybgbanner {
+        background-image: none;
+    }
+    section.service-awardwinning .mainservicetopbanner a.btn.btn-continue {
+        margin-bottom: 15px;
+    }
+    section.alma_Integration_services .title {
+        margin-bottom: 30px;
+    }
+    .aboutmengopaybgbanner .mainservicetopbanner.features-title{
+        padding-right: 0;
+    }
+    section.payementfeatures_services .col-md-6:first-child{
+        order: 2;
+    }
+    section.soluction-section.bg-gray-white .title h2 {
+        margin-bottom: 30px;
+        line-height: 30px;
+    }
+    section.alma_Integration_services .title h2 {
+        line-height: 28px;
+    }
+    section.service-topbanner.mangopayorange .mainservicetopbanner h1 {
+        font-size: 34px;
+        display: block;
+    }
+    section.service-topbanner.mangopayorange .mainservicetopbanner h1 span img {
+        width: 93%;
+    }
+    section.soluction-section .col-md-6:last-child .soluction-panel {
+        margin-bottom: 0;
+    }
+    section.payementfeatures_services {
+        padding: 30px 0px;
+    }
+    section.soluction-section {
+        padding: 30px 0px;
+    }
+    .service-include {
+        padding: 30px 0px;
+    }
+    .service-include ul.timeline:before{
+        height: 83%;
+    }
+    section.soluction-section.service-include.bg-gray-white ul.timeline:before{
+        height: 78%;
+    }
+    ul.logo-platform-listing{
+        text-align: center;
+    }
+    ul.logo-platform-listing li {
+        width: 70%;
+        margin-bottom: 15px;
+    }
+    ul.logo-platform-listing li:last-child{
+        margin-bottom: 0;
+    }
+    .Platforms_section .title h2 {
+        margin-bottom: 30px;
+        line-height: 30px;
+    }
+    section.Platforms_section.cmii{
+        padding: 30px 0;
+    }
+    section.Platforms_section {
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+    section.alma_Integration_services {
+        padding: 30px 0px;
+    }
+    section.almapayementfeatures_services {
+        padding: 30px 0px;
+    }
+    section.service-awardwinning .almaleftimages {
+        margin-bottom: 30px;
+    }
+    section.almapayementfeatures_services .row.dflex-features {
+        display: block;
+    }
+    section.almapayementfeatures_services .row.dflex-features .payment_features_new{
+        margin-bottom: 30px;
+    }
+    section.almapayementfeatures_services .row.dflex-features .col-md-3:last-child .payment_features_new{
+        margin-bottom: 0;
+    }    
+    section.almabgcolor .mainservicetopbanner h1{
+        font-size: 42px;
+    }
+    section.service-topbanner.cmibgcolor {
+        background-image: none;
+    }
+    section.cmibgcolor .mainservicetopbanner h1{
+        font-size: 42px;
+    }
+    section.cmibgcolor .mainservicetopbanner h1 span {
+        width: 18%;
+    }
+    section.service-topbanner.cmibgcolor .cmi-bg-topimage img{
+        margin-top: 30px;
+    }
+    section.service-awardwinning.cmi-award .service-flex .col-md-6:first-child
+     {
+        order: 2;
+        margin-top: 30px;
+    }
+    section.service-awardwinning.cmi-award1 .service-flex .col-md-6:last-child{
+         margin-top: 30px;
+    }
+    section.service-topbanner.almabgcolor .alma-bg-topimage {
+        margin-top: 30px;
+        text-align: center;
+    }
+    
+    section.service-awardwinning.cmi-award .img_outer {
+        margin-right: 20px;
+    }
+    section.soluction-section .title h3
+     {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    section.alma_Integration_services .title h3,
+    section.almapayementfeatures_services .title h3 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    section.alma_Integration_services .Integration_features_new {
+        margin-bottom: 30px;
+    }
+    section.section-testimonials .title h3,
+    section.section-reason-choose.php_page .title h3 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    section.section-testimonials .title {
+        padding: 0 15px;
+    }
+     section.almabgcolor .mainservicetopbanner h1 {
+        font-size: 42px;
+    }
+    section.cmibgcolor .mainservicetopbanner h1 {
+        font-size: 42px;
+    }
+    section.service-topbanner.cmibgcolor {
+        background-image: none;
+    }
+    section.alma_Integration_services .Integration_features_new {
+        margin-bottom: 30px;
+    }
+    section.almapayementfeatures_services .row.dflex-features {
+        flex-wrap: wrap;
+    }
+    section.almapayementfeatures_services .payment_features_new{
+        min-height: 268px;
+        margin-bottom: 30px;
+    }
+    
+    section.almapayementfeatures_services .col-md-3:nth-child(4) .payment_features_new{
+        margin-bottom: 0;
+    }
+    section.payementfeatures_services .mainservicetopbanner.features-title h2,
+    section.service-awardwinning.aboutmengopaybgbanner .mainservicetopbanner.features-title h2{
+        font-size: 22px;
+        line-height: 28px;
+    }
+    section.service-awardwinning.aboutmengopaybgbanner .mainservicetopbanner.features-title h2{
+        margin-bottom: 10px;
+    }
+    section.soluction-section.bg-gray-white .title h3,
+    section.service-include .title h3{
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .tool_tip .tooltip_feature{
+        width: 350px;
+        left: -67px;
+    }
+    section.service-include .title h2 {
+        line-height: 30px;
+    }
+
+    .service-include ul.timeline > li:before,
+    .service-include ul.timeline:before,
+    .service-include ul.timeline > li:after,
+    .service-include ul.timeline > li span{
+        display: none;
+    }
+    .service-include ul.timeline > li {
+        padding-left: 16px;
+        padding-bottom: 20px;
+    }
+}
+@media(max-width:321px){
+    section.soluction-section.service-include.bg-gray-white ul.timeline:before {
+        height: 75%;
+    }
+    section.almabgcolor .mainservicetopbanner h1 {
+        font-size: 36px;
+    }
+    section.drupal_expertise .item {
+        margin-right: 35px;
+    }
+}
+
+@media screen and (min-width: 474px) and (max-width: 767px){
+    a.btn.btn-contactsupport{
+        margin-bottom: 0;
+    }
+    a.btn.btn-contactsupport-blk{
+        margin-bottom: 0;
+    }
+    .mainservicetopbanner .btn-contactsupport, .service-topbanner .btn-contactsupport-blk,
+    section.service-topbanner.bgdarblue a.btn.btn-contactsupport {
+        margin-bottom: 0px;
+    }
+    ul.logo-platform-listing .logo-platforms img {
+        width: 75%;
+    }
+    
+}
+
+@media only screen and (max-width: 386px){
+    #top-container-def {
+        top: 40px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+    section.alma_Integration_services .Integration_features_new{
+        min-height: 225px; 
+    }
+    section.almapayementfeatures_services .payment_features_new {
+        min-height: 300px;
+    }
+    ul.logo-platform-listing .logo-platforms {
+        padding: 0px 10px;
+    }
+}
+
+
+
+/*-----------ux-ui experts---------------*/
+@media screen and (max-width: 767px){
+    section.design-skills{
+        padding: 30px 0;
+    }
+    section.recentwork-section .title h3 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    section.webflowfeatures_services .title h2,
+    section.design-skills .title h2,
+    section.webflow-platform.ui-platform .title h2{
+        margin-bottom: 30px;
+        line-height: 30px !important;
+    }
+    section.service-awardwinning.ui_award .title h2{
+        font-size: 22px;
+        line-height: 30px
+    }
+    section.service-awardwinning.ui_award .advantages-hiring-list {
+        margin-top: 0;
+    }
+    section.design-skills .row.design-row2{
+        margin-top: 0;
+    }
+    section.design-skills .row.design-row2 .col-md-3:last-child .skillBox{
+        margin-bottom: 0;
+    }
+    section.design-skills .skillBox{
+        margin-bottom: 30px;
+    }
+    section.service-awardwinning.bg-gray-white.almaa .row.service-flex .col-md-6:first-child {
+        order: 2;
+        margin-top: 30px;
+    }
+    section.alma_Integration_services .col-md-6:last-child .Integration_features_new {
+        margin-bottom: 0;
+    }
+    section.section-reason-choose.wp-devlop-choose .title,
+    section.webflow-platform.asp-section .title {
+        padding: 0px 16px;
+    }
+    img.floating {
+        width: 90%;
+    }
+    section.section-testimonials.reveiw_slide.ux_page .services-userimages {
+        background: #fff;
+    }
+    section.service-awardwinning.ui_award .mainservicetopbanner h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    section.design-skills .title h2
+    section.webflowfeatures_services.ui_benefits .title h2,
+    section.webflow-platform.ui-platform .title h2{
+        line-height: 30px;
+    }
+    .our-process .process-slide-content, .slide-imgs {
+        width: 100%;
+        min-height: 350px;
+    }
+    section.webflow-platform.expertise-section.php_page .mainservicetopbanner h2,
+    section.expertise-section .expertise-list .advantage-text-head,
+    section.webflow-platform.ui-platform .mainservicetopbanner h2,
+    section.webflow-platform.ui-platform .mian_box .ui_datas .ui_datashead{
+        font-size: 20px;
+        line-height: 28px;
+    }
+    section.webflowfeatures_services.php_solutions{
+        padding: 70px 0 30px;
+    }
+    .section-reason-choose.php_page .advantageBox {
+        min-height: 460px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+    section.design-skills.ux_page .col-md-3{
+        width: 50%;
+        margin-bottom: 30px;
+    }
+    section.design-skills.ux_page .row.design-row1,
+    section.design-skills.ux_page .row.design-row2{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    section.design-skills.ux_page .design-row2{
+        margin-top: 0
+    }
+    section.design-skills.ux_page .row.design-row2 .col-md-3:nth-child(3),
+    section.design-skills.ux_page .row.design-row2 .col-md-3:nth-child(4){
+        margin-bottom: 0px;
+    }
+    section.webflowfeatures_services.ui_box .row.weoffer-row1 .damlBox, 
+    section.webflowfeatures_services.ui_box .row.weoffer-row2 .damlBox {
+        min-height: 392px;
+    }
+    section.webflow-platform.ui-platform .row.alignitemcenter {
+        flex-direction: column;
+    }
+    section.service-topbanner.uiuxbgcolor .row.service-flex .rightside-topbanner img{
+        width: 70%;
+    }
+    section.section-testimonials.testimonials.advantage_section.php_page .advantageBox {
+        min-height: 412px;
+    }
+}
+
+@media screen and (max-width: 991px){
+    section.webflowfeatures_services.ui_box .row.weoffer-row1 .damlBox, 
+    section.webflowfeatures_services.ui_box .row.weoffer-row2 .damlBox {
+        min-height: 392px;
+    }
+    section.webflowfeatures_services.ui_box .row.weoffer-row1 .damlBox, 
+    section.webflowfeatures_services.ui_box .row.weoffer-row2 .damlBox {
+        min-height: 260px;
+    }
+
+    section.webflowfeatures_services.ui_benefits .row.weoffer-row1 .damlBox{
+        min-height: 272px;
+    }
+    section.webflowfeatures_services.ui_benefits .row.weoffer-row2 .damlBox {
+        min-height: 295px;
+    }        
+    section.service-awardwinning.ui_award .row.service-flex .col-md-6:first-child {
+        margin-bottom: 30px;
+    }   
+    .rightside-topbanner {
+        text-align: center;
+    } 
+}
+
+
+
+@media screen and (min-width: 992px) and (max-width: 1100px){
+    section.soluction-section.bg-gray-white .soluction-panel{
+        min-height: 243px;
+    }
+    section.almapayementfeatures_services .payment_features_new{
+        min-height: 406px;
+    }
+    section.alma_Integration_services .Integration_features_new{
+        min-height: 318px;
+    }
+    section.webflowfeatures_services .row.weoffer-row1 .damlBox {
+        min-height: 325px;
+    } 
+    section.service-topbanner.bgdarblue a.btn.btn-contactsupport{
+        margin-bottom: 20px;
+    }
+    section.webflowfeatures_services .row.weoffer-row1 .shopifyyBox {
+        min-height: 445px;
+    }
+    section.webflowfeatures_services.presta_box .row.weoffer-row1 .damlBox {
+        min-height: 541px;
+    }
+    section.webflowfeatures_services.presta_box .row.weoffer-row2 .damlBox {
+        min-height: 518px;
+    }
+    section.section-testimonials.testimonials.wpexperts.presta_choose .advantageBox{
+        min-height: 408px;
+    }
+    section.webflowfeatures_services.php_solutions .row.weoffer-row1 .damlBox{
+        min-height: 435px;
+    } 
+    section.webflowfeatures_services.php_solutions .row.weoffer-row2 .damlBox {
+        min-height: 460px;
+    }
+    section.section-testimonials.testimonials.advantage_section.php_page .advantageBox {
+        min-height: 573px;
+    }
+    .section-reason-choose.php_page .advantageBox {
+        min-height: 480px;
+    }
+    section.webflowfeatures_services.wordpress-soln .row.weoffer-row1 .damlBox,
+    section.webflowfeatures_services.wordpress-soln .row.weoffer-row2 .damlBox {
+        min-height: 390px !important;
+    }
+    section.section-reason-choose.wp-devlop-choose .advantageBox{
+        min-height: 435px;
+    }
+    section.webflowfeatures_services.ui_box .row.weoffer-row1 .damlBox {
+        min-height: 492px;
+    }
+    section.webflowfeatures_services.ui_box .row.weoffer-row2 .damlBox{
+        min-height: 472px;
+    }
+    section.design-skills .skillBox{
+        min-height: 243px;
+    }
+    section.webflowfeatures_services.ui_benefits .row.weoffer-row1 .damlBox {
+        min-height: 421px;
+    }
+    section.webflowfeatures_services.ui_benefits .row.weoffer-row2 .damlBox {
+        min-height: 469px;
+    }
+}
+/*-----------cmi payment gateway/ wordpress experts---------------*/
+@media screen and (max-width: 991px){
+    section.cmibgcolor{
+        background-image: none;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px){
+    section.service-awardwinning.cmi-award .row.service-flex .col-md-6:first-child {
+        order: 2;
+        margin-top: 30px;
+    }
+    section.service-awardwinning.cmi-award1 .cmirightimages {
+        margin-top: 30px;
+    }
+    section.service-topbanner.wordpressbannerbg .row.service-flex .col-md-6:last-child,
+    section.service-topbanner.phpbannerbg .row.service-flex .col-md-6:last-child,
+    section.webflow-platform.expertise-section.php_page .alignitemcenter .col-md-6:last-child {
+        margin-top: 30px;
+    }
+    section.service-topbanner.wordpressbannerbg .row.service-flex,
+    section.service-topbanner.phpbannerbg .row.service-flex,
+    section.webflow-platform.expertise-section.php_page .alignitemcenter {
+        flex-direction: column;
+    }
+    section.webflow-platform.ui-platform .row.alignitemcenter .col-md-6:last-child {
+        margin-top: 30px;
+    }   
+}
+
+/*-----------web design page/ ecome---------------*/
+@media screen and (min-width: 992px) and (max-width: 1200px){
+    section.about-reactjs.web3-page.webd-page{
+        background-size: 53% 100%;
+    }
+    section.section-reason-choose.wp-devlop-choose.ecom-page .advantageBox{
+        min-height: 365px;
+    }
+    section.webflowfeatures_services.webd-page .row.weoffer-row1 .damlBox{
+        min-height: 421px !important;
+    }
+    section.webflowfeatures_services.webd-page .row.weoffer-row2 .damlBox {
+        min-height: 420px;
+    }
+    section.webflowfeatures_services.ecom-page .weoffer-row2 .damlBox {
+        min-height: 375px !important;
+    }
+}
+
+@media screen and (max-width: 991px){
+    section.about-reactjs.webd-page1 .row-waffer .col-md-6:first-child {
+        order: 2;
+        margin-bottom: 0;
+        margin-top: 30px;
+    }
+    section.about-reactjs.web3-page.webd-page{
+        background-image: none;
+    }
+    section.about-reactjs.web3-page.webd-page .row-waffer .col-md-6:first-child {
+        margin-bottom: 0;
+    }
+}
+@media screen and (max-width: 767px){
+
+    section.about-reactjs.web3-benefit.webd-page1 .tech_stack{
+        display: inline-block;
+    }
+    .stack-item {
+        width: 32%;
+        display: inline-block;
+    }
+    section.section-reason-choose.ecom-page .title h2 {
+        margin-bottom: 0;
+    }
+    section.about-reactjs.web3-benefit.webd-page1 .tech_stack .stack-item:nth-child(4),
+    section.about-reactjs.web3-benefit.webd-page1 .tech_stack .stack-item:nth-child(5),
+    section.about-reactjs.web3-benefit.webd-page1 .tech_stack .stack-item:nth-child(6){
+        margin-top: 20px;
+    }
+    section.about-reactjs.web3-page.ecom-page .title h2, 
+    section.section-reason-choose.wp-devlop-choose.ecom-page .title h2,
+    section.webflowfeatures_services.ecom-page .title h2 {
+        line-height: 30px;
+    }
+    section.about-reactjs.web3-page.ecom-page .web3-contents h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    section.use-technological.tech-use-dev .technological-box {
+        margin-top: 0;
+    }
+    section.use-technological.tech-use-dev .technological-box {
+        margin-top: 0;
+    }
+    section.webflowfeatures_services.webdtech-page .row.weoffer-row1 .col-md-4:last-child{
+        margin-bottom: 0;
+    }
+    section.section-testimonials.testimony-serve {
+        padding-bottom: 60px;
+    }
+    .technological-box a {
+        margin-bottom: 30px !important;
+    }
+    section.section-reason-choose.wp-devlop-choose.ecom-page .advantageBox{
+        min-height: 310px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px){
+    section.webflowfeatures_services.webd-page .row.weoffer-row2 .damlBox {
+        min-height: 280px;
+    }
+    .ecombannerbg .rightside-topbanner img {
+        width: 85%;
+    }
+    .webdbannerbg{
+        background-position: unset;
+    }
+    section.webflowfeatures_services .title h2 {
+        line-height: 44px;
+    }
+    section.about-reactjs.webdevelop-page .web3-contents h3,
+    section.about-reactjs.web3-page.ecom-page .web3-contents h3{        
+        margin-bottom: 20px;
+    }
+    section.section-reason-choose.wp-devlop-choose.ecom-page .advantageBox{
+        min-height: 295px;
+    }
+    section.webflowfeatures_services.ecom-page .weoffer-row2 .damlBox {
+        min-height: 253px !important;
+    }
+    section.webflowfeatures_services.webd-page .row.weoffer-row1 .damlBox {
+        min-height: 275px;
+    }
+    section.webflowfeatures_services.web3-page.ecom-page .weoffer-row1 .damlBox{
+        min-height: 285px;
+    }
+}
+
+/*-----------web development page---------------*/
+
+@media screen and (min-width: 992px) and (max-width: 1100px){
+    section.webflowfeatures_services.webdevelop-page .row.weoffer-row1 .damlBox {
+        min-height: 422px !important;
+    }
+    section.webflowfeatures_services.webdevelop-page .row.weoffer-row2 .damlBox {
+        min-height: 420px !important; 
+    }
+}
+
+@media screen and (max-width: 991px){
+    section.advantages-hiring.webdevelop-page .row .col-md-6:last-child {
+        margin-top: 30px;
+    }
+    section.about-reactjs.web3-benefit.webdev-page .row-waffer .col-md-6:first-child {
+        order: 1;
+        margin-bottom: 0;
+        margin-top: 30px;
+    }
+    section.webflow-platform.ecome-page.webdev-page .expertise-list .advantage-text-data {
+        min-height: 187px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px){
+    section.webflowfeatures_services.webdevelop-page .weoffer-row2 .damlBox {
+        min-height: 300px !important;
+    }
+}
+
+@media screen and (max-width: 767px){
+    section.about-reactjs.webdevelop-page .web3-contents h3,
+    section.about-reactjs.web3-page.ecom-page .web3-contents h3{
+        font-size: 20px;
+        line-height: 28px;
+        margin-bottom: 20px;
+    }
+    section.about-reactjs .title{
+        margin-bottom: 30px;
+    }
+    section.about-reactjs .title h2{
+        line-height: 30px;            
+    }
+    section.about-reactjs.webdevelop-page .title h2{
+        line-height: 30px;
+    }
+    section.use-technological .title h2{
+        margin-bottom: 0;
+        line-height: 30px
+    }
+    section.use-technological .title{
+        margin-bottom: 30px;
+    }
+    section.use-technological{
+        line-height: 30px;
+    }
+    section.use-technological .title .sub-head{       
+        margin-top: 20px;
+        padding-bottom: 0;
+    }
+    section.advantages-hiring.webdevelop-page .row{
+        margin-top: 0px;
+    }
+    section.advantages-hiring.webdevelop-page .title{
+        margin-bottom: 30px;
+    }
+    section.recentwork-section .title h5 {        
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+    section.webflow-platform.expertise-section.ecome-page .expertise-list > div:last-child .advantage-text-data {
+        margin-bottom: 20px;
+    }
+    section.advantages-hiring.webdevelop-page .title h2{
+        line-height: 30px;
+    }
+}
+
+/*-----------Mobile app development page---------------*/
+@media screen and (min-width: 992px) and (max-width: 1025px){
+    section.webflowfeatures_services.mob-app-page .row.weoffer-row1 .damlBox {
+        min-height: 403px;
+    }
+    section.webflowfeatures_services.mob-app-page .row.weoffer-row2 .damlBox {
+        min-height: 425px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+    section.webflowfeatures_services.mob-app-page .row.weoffer-row2 .damlBox {
+        min-height: 280px;
+    }
+
+}
+
+@media screen and (max-width: 767px){
+    section.section-reason-choose.mob-app-page .title h2{
+        line-height: 30px;
+    }
+    section.section-reason-choose.mob-app-page .title h3 {
+        font-size: 16px;
+        line-height: 24px;       
+    }
+    section.webflowfeatures_services.web3-page .weoffer-row1 .damlBox {
+        min-height: 325px;
+    }
+}
+
+
+/*-----------Internet Marketing page---------------*/
+@media screen and (min-width: 992px) and (max-width: 1100px){
+     section.webflowfeatures_services.imarket-page .weoffer-row1 .damlBox  {
+        min-height: 450px !important;
+    }
+   section.webflowfeatures_services.imarket-page .weoffer-row2 .damlBox {
+        min-height: 420px !important;
+    }
+    section.webflow-platform.expertise-section.imarket .expertise-list .advantage-text-data {
+        min-height: 143px;
+    }
+}
+
+@media screen and (max-width: 991px){
+    .imarketbannerbg{
+        background-image: none;
+    }    
+    section.about-reactjs.imarket-page .row-waffer .col-md-6:first-child {
+        order: 2;
+        margin-top: 30px;
+        margin-bottom: 0;
+    }
+}
+
+@media screen and (max-width: 767px){
+    section.about-reactjs.web3-page.imarket-page .web3-contents h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px){
+    .imarketbannerbg .rightside-topbanner img,
+    section.about-reactjs.imarket-page .reactleftimages img{
+        width: 85%;   
+    }
+    section.webflow-platform.ecome-page.imarket .expertise-list .advantage-text-data {
+        min-height: 190px;
+    }
+    section.webflow-platform.expertise-section.ecome-page.imarket .expertise-list > div {
+        align-items: initial;
+        min-height: 295px;
+    }
+    section.webflowfeatures_services.imarket-page .weoffer-row1 .damlBox, 
+    section.webflowfeatures_services.imarket-page .weoffer-row2 .damlBox {
+        min-height: 300px !important;
+    }
+}
+
+
+/*--not---------AngularJs page responsive---------------*/
+@media screen and (max-width: 767px){
+    section.design-skills.angular_industry .title h2, 
+    section.webflowfeatures_services.angular_paartner .title h2, 
+    section.webflowfeatures_services.angular_services .title h2, 
+    section.angularjs_scope .title h2{
+        line-height: 30px;
+    }
+    section.angularjs_scope{
+        padding: 30px 0;
+    }
+    section.service-topbanner.angularbannerbg .rightside-topbanner {
+        margin-top: 30px;
+    }
+    section.use-technological.magentoD-page .technological-box a {
+        width: inherit;
+    }
+    section.webflow-platform.prestadev-page .title {
+        padding: 0 15px;
+    }
+
+}
+@media screen and (min-width: 992px) and (max-width: 1100px){
+    section.webflowfeatures_services.angular_services .row.weoffer-row1 .damlBox,
+    section.webflowfeatures_services.angular_services .row.weoffer-row2 .damlBox {
+        min-height: 348px;
+    }
+    section.use-technological.magentoD-page .technological-box a {
+        width: 29.5%;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+    section.angularjs_scope .scope-row1,
+    section.angularjs_scope .scope-row2,
+    section.angularjs_scope .scope-row3,
+    section.angularjs_scope .scope-row4{
+        display: flex;
+    }
+    section.angularjs_scope .scope-row1{
+        margin-bottom: 0;
+    }
+    section.angularjs_scope .col-md-6{
+        width: 50%;
+    }
+    section.design-skills.angular_industry .row.design-row1 .col-md-3,
+    section.design-skills.angular_industry .row.design-row2 .col-md-3 {
+        margin-bottom: 30px;
+    }
+    section.design-skills.angular_industry .row.design-row1,
+    section.design-skills.angular_industry .row.design-row2 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    section.design-skills.angular_industry .col-md-3{
+        width: 50%;
+    }
+    section.design-skills.angular_industry .row.design-row1 .col-md-3:nth-child(3),
+    section.design-skills.angular_industry .row.design-row1 .col-md-3:nth-child(4),
+    section.design-skills.angular_industry .row.design-row2 .col-md-3:nth-child(3),
+    section.design-skills.angular_industry .row.design-row2 .col-md-3:nth-child(4){
+        margin-bottom: 0;
+    }
+    section.use-technological.magentoD-page .technological-box a {
+        width: 45.4%;
+    }
+    section.webflow-platform.prestadev-page .alignitemcenter .col-md-6 {
+        width: 50%;
+    }
+    section.angularjs_scope .scopeBox {
+        min-height: 260px;
+    }
+}
+@media screen and (max-width: 991px){
+    section.angularjs_scope .scope-row1 .col-md-6:nth-child(1),
+    section.angularjs_scope .scope-row2 .col-md-6:nth-child(1)
+    {
+        margin-bottom: 30px;
+    }
+    section.about-reactjs.angulr .row-waffer .col-md-6:first-child {
+        order: 2;
+        margin-top: 30px;
+        margin-bottom: 0;
+    }
+
+}
+
+
+/*-----------payPal payment css---------------*/
+@media screen and (max-width: 767px){    
+    .paypal-bg-topimage {
+        margin-top: 30px;
+    }
+    section.alma_Integration_services.paypal_page .headerpanel-Integration h3 {
+        width: 100% !important;
+    }
+    section.service-awardwinning.bg-gray-white.paypal_page .title h2 {
+        margin-bottom: 30px;
+        line-height: 30px;
+    }
+    section.service-awardwinning.bg-gray-white.paypal_page .mainservicetopbanner.features-title h2 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    section.service-awardwinning.bg-gray-white.paypal_page .mainservicetopbanner.features-title .advantages-hiring-list{
+        padding-top: 0px !important;
+    }
+    section.service-awardwinning.bg-gray-white.paypal_page .col-md-6:first-child{
+        margin-bottom: 30px;
+    }
+    section.service-awardwinning.bg-gray-white.paypal_page .row.service-flex.flex2 .col-md-6:first-child{
+        margin-bottom: 0;
+        order: 2;
+    }
+    section.service-awardwinning.bg-gray-white.paypal_page .row.service-flex.flex2 .col-md-6 .almaleftimages{
+        margin-bottom: 0;
+    }
+    section.payementfeatures_services.paypal_page .title {
+        margin-bottom: 30px;
+    }
+    section.payementfeatures_services.paypal_page .row.dflex-features .col-md-6:last-child {
+        order: 2;
+        margin-top: 30px;
+    }
+    section.payementfeatures_services.paypal_page .title h2 {
+        line-height: 30px;
+    }
+    section.alma_Integration_services.paypal_page .title h2, 
+    section.service-awardwinning.bg-gray-white.paypal_page .title h2,
+    section.Platforms_section .title h2,
+    section.webflowfeatures_services .title h2
+    {
+        line-height: 30px !important;
+    }
+}
+@media screen and (max-width: 991px){
+    .paypalbgcolor{
+        background: #02387B;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px){
+    section.service-topbanner.paypalbgcolor .row.service-flex {
+        flex-direction: column;
+    }
+    section.service-topbanner.paypalbgcolor .row.service-flex .col-md-6:first-child{
+        margin-bottom: 30px;
+    }
+    section.service-awardwinning.bg-gray-white.paypal_page .title{
+        margin-bottom: 40px;
+    }
+    section.service-awardwinning.bg-gray-white.paypal_page .row.service-flex .col-md-6:first-child
+    {
+        margin-bottom: 30px;
+    }
+    section.service-awardwinning.bg-gray-white.paypal_page .row.service-flex.flex2{
+        margin-top: 30px;
+    }
+    section.service-awardwinning.bg-gray-white.paypal_page .row.service-flex.flex2 .col-md-6:first-child {
+        order: 2;
+        margin-top: 30px;
+        margin-bottom: 0;
+    }
+    section.payementfeatures_services.paypal_page .row.dflex-features .col-md-6:last-child {
+        order: 2;
+        margin-top: 30px;
+    }
+     section.payementfeatures_services.paypal_page .row.dflex-features .col-md-6:first-child{
+        width: 100%;
+     }
+     section.section-testimonials.reveiw_slide .title {
+        padding: 0 16px;
+    }
+}
+
+/*-----------Stripe payment css---------------*/
+
+@media screen and (max-width: 767px){   
+    section.service-topbanner.stripebgcolor .row.service-flex .col-md-6:first-child{
+        margin-bottom: 30px;
+    }
+    section.about-stripepay, section.stripe_advantge, section.custom-integration
+    {
+        padding: 30px 0;
+    }
+    section.service-awardwinning.cmi-award.stripe-page, section.service-awardwinning.cmi-award1.stripe-page{
+        padding: 0 0 30px 0;
+    }
+    section.about-stripepay .stripe-box{
+        margin: 0 15px;
+    }
+    section.stripe_advantge .title h2, section.custom-integration .title h2, section.stripe_advantge .title h2{
+        line-height: 30px;
+    }
+    section.custom-integration .row-custom1 .col-md-6:first-child,
+    section.custom-integration .row-custom2 .col-md-6:first-child {
+        margin-bottom: 30px;
+    }
+    section.stripe_advantge .service-flex .col-md-6:first-child {
+        margin-bottom: 30px;
+    }
+    section.about-stripepay .stripe-box h2{
+        font-size: 22px;
+        line-height: 30px;
+    }
+    section.stripe_advantge.how-stripe-section .service-flex .col-md-6:first-child{
+        order: 2;
+        margin-top: 30px;
+    }
+    section.stripe_advantge .title , section.custom-integration .title, section.stripe_advantge .title{
+        margin-bottom: 30px;
+    }
+    section.stripe_advantge.how-stripe-section{
+        padding: 30px 0;
+    }
+    section.stripe_advantge.how-stripe-section .advantages-hiring-list {
+        padding-top: 0;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+    section.custom-integration .row-custom1,
+    section.custom-integration .row-custom2{
+        display: flex;
+    }
+    section.custom-integration .row-custom1 .col-md-6,
+    section.custom-integration .row-custom2.col-md-6{
+        width: 50%;
+    }
+    section.custom-integration .custm-box{
+        min-height: 280px;
+    }
+    section.stripe_advantge.how-stripe-section .service-flex {
+        flex-direction: column;
+    }
+    section.stripe_advantge.how-stripe-section .service-flex .col-md-6:first-child{
+        order: 2;
+    }
+    section.stripe_advantge.how-stripe-section .service-flex .col-md-6:last-child{
+        margin-bottom: 30px;
+    }
+}
+@media screen and (max-width: 991px){
+     section.service-topbanner.stripebgcolor{
+        background-image: none
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1200px){
+	section.webflowfeatures_services.stripe-page .row.weoffer-row1 .damlBox,
+	section.webflowfeatures_services.stripe-page .row.weoffer-row2 .damlBox {
+	    min-height: 348px;
+	}
+	section.custom-integration .custm-box {
+	    min-height: 250px;
+	}
+}
+
+
+/*-----------ReactJS/Vue css---------------*/
+@media screen and (min-width: 992px) and (max-width: 1200px){
+    section.webflowfeatures_services.vue-page .row.weoffer-row1 .damlBox, 
+    section.webflowfeatures_services.vue-page .row.weoffer-row2 .damlBox {
+        min-height: 422px;
+    }
+    section.section-reason-choose.wp-devlop-choose.react-page.vuee .advantageBox {
+        min-height: 356px;
+    }
+    section.section-reason-choose.wp-devlop-choose.react-page .advantageBox {
+    min-height: 367px;
+    }
+    section.angularjs_scope.react-page .scopeBox {
+        min-height: 290px;
+    }
+}
+@media screen and (max-width: 991px){
+    section.about-reactjs .row-waffer {
+        flex-direction: column;
+    }
+    section.about-reactjs .row-waffer .col-md-6:first-child{
+        margin-bottom: 30px;
+    }   
+    section.about-reactjs.vue-page .row-waffer .col-md-6:first-child {
+        order: 2;
+        margin-top: 30px;
+        margin-bottom: 0;
+    }
+    section.angularjs_scope.react-page .scope-row2 .col-md-6:nth-child(1)
+    {
+        margin-bottom: 0;
+    }
+    section.angularjs_scope.react-page .scopeBox {
+        min-height: 260px;
+    }
+    section.stripe_advantge.reactjs-page .service-flex {
+        flex-direction: column;
+    }
+    section.stripe_advantge.reactjs-page .service-flex .col-md-6:first-child{
+        margin-bottom: 30px;
+    }
+    .reactbannerbg .rightside-topbanner.wpbanner-top img {
+        width: 70%;
+    }
+    section.about-reactjs .title h3 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    section.stripe_advantge.vuejs-page .service-flex {
+        flex-direction: column;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px){
+    section.webflowfeatures_services.vue-page .row.weoffer-row1 .damlBox, 
+    section.webflowfeatures_services.vue-page .row.weoffer-row2 .damlBox {
+        min-height: 260px;
+    }
+    .vuebannerbg .rightside-topbanner img {
+        width: 85%;
+    }
+    section.angularjs_scope.react-page .scopeBox {
+        min-height: 352px;
+    }
+    section.section-reason-choose.wp-devlop-choose.react-page .advantageBox {
+        min-height: 335px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    section.about-reactjs,
+    section.stripe_advantge.reactjs-page {
+        padding: 30px 0;
+    }
+    section.angularjs_scope.react-page .scope-row2 .col-md-6:nth-child(1),
+    section.angularjs_scope.react-page .scope-row3 .col-md-6:nth-child(1),
+    section.angularjs_scope.react-page .scope-row3 .col-md-6:nth-child(1)
+    {
+        margin-bottom: 30px;
+    }
+    section.about-reactjs.vue-page .react-contents .advantages-hiring-list,
+    section.stripe_advantge.vuejs-page .advantages-hiring-list{
+        padding-top: 0;
+    }
+    section.stripe_advantge.vuejs-page{
+        padding: 30px 0;
+    }
+    section.section-reason-choose.wp-devlop-choose.vuee .title h2 {
+        margin-bottom: 30px;
+    }
+    section.section-reason-choose.wp-devlop-choose.vuee .owl-carousel button.owl-dot:last-child{
+        display: none;
+    }
+    section.stripe_advantge.reactjs-page .advantages-hiring-list {
+        padding-top: 0 !important;
+    }
+    section.angularjs_scope.react-page .row.scope-row4 .col-md-6:first-child {
+        margin-bottom: 30px;
+    }
+    section.section-reason-choose.wp-devlop-choose.react-page .advantageBox {
+        min-height: 415px;
+    }
+    section.section-reason-choose.wp-devlop-choose .title h2,
+    section.section-reason-choose.wp-devlop-choose.react-page .title h2 {
+        margin-bottom: 0px;
+        line-height: 30px;
+    }
+}
+
+/*-----------web3Js page responsive---------------*/
+@media screen and (max-width: 767px){
+    .web3-contents h2, .web3work-section .title h2{
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 30px;
+    } 
+    .web3-contents .advantages-hiring-list, section.stripe_advantge.web3-page .advantages-hiring-list{
+        padding-top: 0;
+    }
+    .web3work-section .webwork-para{
+        margin: 0;
+    }
+    .web3work-section .webwork-para1{
+        margin: 20px 0 0;
+    }    
+    .web3work-section {
+        padding: 30px 0;
+    }
+    section.stripe_advantge.web3-page {
+        padding: 30px 0;
+    }
+    .web3work-section .title {
+        margin-bottom: 0;
+    }
+    .web3work-section .webwork-images {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 991px){
+    section.stripe_advantge.web3-page .service-flex .col-md-6:first-child {
+        order: 2;
+        margin-top: 30px;
+    }
+    .web3work-section .webwork-images img{
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+    section.webflowfeatures_services.web3-page .row.weoffer-row2 .damlBox {
+        min-height: 275px;
+    }
+    .blog .card-content {
+        min-height: 306px;
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1100px){
+    section.drupal_expertise .owl-dots{
+        top: 80%;
+    }
+    section.webflowfeatures_services.web3-page .row.weoffer-row1 .damlBox {
+        min-height: 405px;
+    }
+    .blog .card-content {
+        min-height: 225px;
+    }
+    section.webflowfeatures_services.web3-page .row.weoffer-row2 .damlBox {
+        min-height: 400px;
+    }
+}
+
+/*-----------ROR page responsive---------------*/
+@media screen and (max-width: 767px){
+    section.about-reactjs.ror-benefit .ror-contents h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    section.about-reactjs.ror-benefit .ror-contents h2{
+        margin-bottom: 10px;
+    }
+    section.stripe_advantge.ror-page {
+        padding: 30px 0;
+    }
+    section.stripe_advantge.ror-page .service-flex .col-md-6:first-child {
+        order: 2;
+        margin-top: 30px;
+    }
+    section.stripe_advantge.ror-page .mainservicetopbanner.features-title h2{
+        margin-bottom: 0;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px){
+    section.stripe_advantge.ror-page .service-flex {
+        flex-direction: column;
+    }
+    section.stripe_advantge.ror-page .service-flex .col-md-6:first-child{
+        order: 2;
+        margin-top: 30px;
+    }
+}
+
+/*-----------Monetico Payment Gateway---------------*/
+@media screen and (max-width: 991px){
+    section.service-awardwinning.benefit-monetico-page .service-flex .col-md-6:first-child,
+    section.service-awardwinning.monetico-page .service-flex .col-md-6:last-child {
+        order: 2;
+        margin-top: 30px;
+    }
+}
+@media screen and (max-width: 767px){
+    section.service-awardwinning.benefit-monetico-page .advantages-hiring-list{
+        padding-top: 0 !important;
+    }
+    section.service-awardwinning.benefit-monetico-page .almaleftimages{
+        margin-bottom: 0;
+    }
+    section.Platforms_section .title h2{
+        margin-bottom: 30px;
+    }
+}
+
+
+@media screen and (max-width: 991px){    
+/*    section.section-reason-choose.wp-devlop-choose.ecom-page .owl-carousel button.owl-dot:nth-child(8),
+    section.section-reason-choose.wp-devlop-choose.ecom-page .owl-carousel button.owl-dot:nth-child(9)
+     {
+        display: none;
+    }*/
+    section.about-reactjs.ecom-page .row-waffer .col-md-6:first-child {
+        order: 2;
+        margin-top: 30px;
+        margin-bottom: 0;
+    }
+}
+@media screen and (min-width: 767px) and (max-width: 991px){
+    section.webflow-platform.ecome-page .expertise-list .advantage-text-data {
+        min-height: 165px;
+    }
+}
+@media screen and (max-width: 767px){
+    section.webflow-platform.expertise-section.ecome-page .title h2 {
+        margin-bottom: 10px;
+    }
+    /*section.section-reason-choose.ecom-page .title h2 {
+        margin-bottom: 40px;
+    }*/
+    section.webflow-platform.ecome-page{
+        padding: 30px 15px;
+    }
+}
+
+/*-----------wordpress expert----------*/
+
+@media screen and (min-width: 991px) and (max-width: 1100px){
+    section.webflowfeatures_services.wp-xpert .weoffer-row1 .damlBox,
+    section.webflowfeatures_services.wp-xpert .weoffer-row2 .damlBox {
+        min-height: 468px !important;
+    }
+    section.section-testimonials.testimonials.wpexperts .whychooseBox{
+        min-height: 386px
+    }
+
+}
+@media screen and (min-width: 768px) and (max-width: 991px){
+    section.webflowfeatures_services.wp-xpert .weoffer-row1 .damlBox,
+    section.webflowfeatures_services.wp-xpert .weoffer-row2 .damlBox {
+        min-height: 300px !important;
+    }
+    section.section-testimonials.testimonials.wpexperts .whychooseBox{
+        min-height: 300px
+    }
+    .wordpressbannerbg .wpbanner-top img {
+        width: 80%;
+    }
+
+}
+@media screen and (max-width: 767px){
+    section.webflowfeatures_services.wp-xpert .weoffer-row1 .damlBox, 
+    section.webflowfeatures_services.wp-xpert .weoffer-row2 .damlBox {
+        min-height: 320px !important;
+    }
+}
+@media screen and (max-width: 321px){
+    section.wordpressbannerbg .mainservicetopbanner .banner_lst ul {
+        display: block;
+        margin-top: 20px;
+    }
+    section.wordpressbannerbg .mainservicetopbanner .banner_lst ul li {
+        line-height: 20px;
+    }
+}
+/*-----------Hire Resources----------*/
+
+/*-----------Hire Iphone/Android APp developer---------------*/
+@media screen and (max-width: 767px){
+    section.webflowfeatures_services.hiphone-page .row.weoffer-row1 .damlBox {
+            min-height: 280px;
+    }
+    section.webflowfeatures_services.handroid-page .row.weoffer-row1 .damlBox {
+        min-height: 280px;
+    }
+    section.webflowfeatures_services.huiux-page .row.weoffer-row1 .damlBox
+    {
+            min-height: 280px;
+    }
+    section.webflowfeatures_services.hphp-page .weoffer-row1 .damlBox{
+            min-height: 306px;
+    }
+    section.advantages-hiring .title h2 {
+        line-height: 30px;
+    }
+    section.advantages-hiring .row .col-md-5 {
+        margin-top: 30px;
+    }
+    section.webflowfeatures_services.hdrupal-page .weoffer-row1 .damlBox {
+        min-height: 315px;
+    }
+    section.webflowfeatures_services.hiree .col-md-3:last-child {
+        margin-bottom: 0;
+    }
+    .advantages-hiring .develop_robust_content p{
+        font-size: 16px;
+        line-height: 24px;
+        color: #333;
+    }
+    .advantages-hiring .advantages-hiring-list .advantage-text{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    section.webflowfeatures_services.hmagento-page .weoffer-row1 .damlBox {
+        min-height: 301px;
+    }
+    section.webflowfeatures_services.hror-page .weoffer-row1 .damlBox {
+        min-height: 275px;
+    }
+    section.webflowfeatures_services.hshopify-page .weoffer-row1 .damlBox {
+        min-height: 276px;
+    }
+    section.webflowfeatures_services.hwp-page .weoffer-row1 .damlBox {
+        min-height: 310px;
+    }
+    section.use-technological.technological_developer {
+        padding: 30px 0;
+    }
+    header{
+        height: 108px;
+    }
+    .blog .card-content{
+      min-height:auto;
+    }
+    .mian_footer{
+        margin-top: 0px;
+        padding-top: 30px;
+    }
+    .working-title h2.Solutions-subheading{
+        line-height: 28px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+    section.webflowfeatures_services.handroid-page .weoffer-row1,
+    section.webflowfeatures_services.hiphone-page .weoffer-row1,
+    section.webflowfeatures_services.huiux-page .row.weoffer-row1,
+    section.webflowfeatures_services.hphp-page .weoffer-row1,
+    section.webflowfeatures_services.hdrupal-page .weoffer-row1,
+    section.webflowfeatures_services.hmagento-page .weoffer-row1,
+    section.webflowfeatures_services.hror-page .weoffer-row1,
+    section.webflowfeatures_services.hshopify-page .weoffer-row1,
+    section.webflowfeatures_services.hwp-page .weoffer-row1 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    section.webflowfeatures_services.handroid-page .weoffer-row1 .col-md-3,
+    section.webflowfeatures_services.hiphone-page .weoffer-row1 .col-md-3,
+    section.webflowfeatures_services.huiux-page .row.weoffer-row1 .col-md-3,
+    section.webflowfeatures_services.hphp-page .weoffer-row1 .col-md-3,
+    section.webflowfeatures_services.hdrupal-page .weoffer-row1 .col-md-3,
+    section.webflowfeatures_services.hmagento-page .weoffer-row1 .col-md-3,
+    section.webflowfeatures_services.hror-page .weoffer-row1 .col-md-3,
+    section.webflowfeatures_services.hshopify-page .weoffer-row1 .col-md-3,
+    section.webflowfeatures_services.hwp-page .weoffer-row1 .col-md-3{
+            width: 50%;
+    }
+    section.webflowfeatures_services.hiphone-page .row.weoffer-row1 .damlBox,
+    section.webflowfeatures_services.handroid-page .row.weoffer-row1 .damlBox {
+        min-height: 280px;
+    }
+    section.webflowfeatures_services.huiux-page .row.weoffer-row1 .damlBox {
+        min-height: 278px;
+    }
+    section.webflowfeatures_services.hphp-page .row.weoffer-row1 .damlBox {
+        min-height: 305px;
+    }
+    header {
+        height: 130px;
+    }
+}
+
+@media screen and (max-width: 991px){
+    section.about-reactjs.web3-benefit.hiree .row-waffer .col-md-6:first-child {
+        order: 2;
+        margin-top: 30px;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1100px){
+    section.webflowfeatures_services.huiux-page .row.weoffer-row1 .damlBox {
+        min-height: 395px;
+    }
+    section.webflowfeatures_services.hiphone-page .row.weoffer-row1 .damlBox {
+        min-height: 425px;
+    }
+    section.webflowfeatures_services.handroid-page .row.weoffer-row1 .damlBox {
+        min-height: 425px;
+    }
+    section.webflowfeatures_services.hphp-page .row.weoffer-row1 .damlBox {
+        min-height: 450px;
+    }
+    section.webflowfeatures_services.hwp-page .row.weoffer-row1 .damlBox{
+        min-height: 425px;
+    }
+    section.webflowfeatures_services.hmagento-page .weoffer-row1 .damlBox {
+        min-height: 447px;
+    }
+    section.webflowfeatures_services.hror-page .weoffer-row1 .damlBox {
+        min-height: 450px;
+    }
+    section.webflowfeatures_services.hdrupal-page .weoffer-row1 .damlBox {
+        min-height: 425px;
+    }
+    section.webflowfeatures_services.hshopify-page .weoffer-row1 .damlBox {
+        min-height: 401px;
+    }
+}
+
+

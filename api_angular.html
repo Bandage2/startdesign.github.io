@@ -1,0 +1,82 @@
+<html >
+<head>
+	<title>AngularJS Api</title>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular.min.js"></script>
+	<style type="text/css">
+		table,td,th {
+			border: 1px solid grey;
+			border-collapse: collapse;
+			padding: 5px;
+		}
+	</style>
+</head>
+<body>
+
+
+<div ng-controller="testController">
+	 <button ng-click="postdata()">Get Result</button>
+	 <table>
+	 	<tr>
+	 		<th>S.no</th>
+	 		<th>Name</th>
+	 		<th>Country</th>
+	 	</tr>
+	 	<tr ng-repeat="x in result">
+	 		<td>{{$index+1}}</td>
+	 		<td>{{x.store_name}}</td>
+	 		<td>{{x.phone_primary}}</td>
+	 	</tr>
+	 </table>
+	 
+	 {{msg}}
+</div>
+<p>{{statusVal}}</p>
+<script type="text/javascript">
+	var testApp = angular.module("testApp", []); //https://dev.autocounselmarket.com/api/autopart/autopart-list
+
+	/* testApp.run(function(request, response, next){
+	 	response.headers('Access-Control-Allow-Origin', '*');
+	 	response.headers('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+	 	next();
+	 });*/
+	 testApp.config(function ($routeProvider, $httpProvider) {
+	    $httpProvider.defaults.headers.post['user-Token'] = 'iNq1b6z46m';
+	    $httpProvider.defaults.headers.post['Content-Type'] = 'application/json; charset=utf-8';
+	});
+	 testApp.run(['$rootScope', '$http', function ($rootScope, $http) {    
+	    $http.defaults.headers.common.Authorization = 'Basic YmVlcDpib29w';    
+	}]);
+	testApp.controller('testController', function ($scope, $http) {
+	
+
+		$scope.postdata = function (page,limit) {
+			$http.defaults.headers.post["Content-Type"] = "application/x-www-form-urlencoded";
+			 
+
+			var data = {'page':1,'limit':10};
+			//Call the services
+			$http({
+				method:'POST',
+				url: 'https://dev.autocounselmarket.com/api/autopart/autopart-list',
+				dataType : 'json',
+				params : data
+
+			}).then(function (response) {
+				if (response.data)
+					console.log(response.data);
+					$scope.msg = "Post Data Submitted Successfully!";
+			}, function (response) {
+				
+				$scope.responseData = response.data;
+				$scope.msg = "Service not Exists";
+				console.log(response);
+				$scope.statusval = response.status;
+				$scope.statustext = response.statusText;
+				$scope.headers = response.headers();
+			});
+		};
+	});
+angular.bootstrap(document, ['testApp']);
+</script>
+</body>
+</html>

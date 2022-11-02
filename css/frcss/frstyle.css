@@ -1,0 +1,101 @@
+/*-------Fr Header css start------*/
+
+.logo-left.fr-logo {    
+    width: 12%;
+}
+.logo-left.fr-logo .capguy{
+	width: 120px;
+    height: 57px;
+}
+.menu-right.fr-menu .topmenu ul li a{
+	text-transform: none;
+}
+.menu-right.fr-menu {
+    width: 88%;
+}
+.menu-right.fr-menu .topmenu ul li {
+    padding-left: 7px;    
+    padding-right: 7px;
+}
+.menu-right.fr-menu .inquiry-menu a{
+	margin-left: 0 !important;
+}
+.menu-right.fr-menu .topmenu ul li .block-drop-mobile ul.bor-line li{
+	min-width: 360px;
+}
+.topmenu ul li ul.bor-line li a span{
+	font-size: 13px;
+}
+ul.item-drop.bor-line.sub-menu2 li a{
+	font-size: 12px;
+} 
+
+/*-------Fr Header ends------*/
+
+
+/*-------Fr Footer starts------*/
+
+.mian_footer.fr-footer .left_side.fr-left-footer{
+	border-right: none;
+}
+.mian_footer.fr-footer .right_side.fr-right-footer{
+	border-left: 1px solid rgba(205,205,205, .4); 
+}
+.mian_footer.fr-footer .foot_link li {
+     line-height: normal; 
+    margin-bottom: 8px;
+}
+.mian_footer.fr-footer .foot_link li a{
+	line-height: 22px;
+}
+.mian_footer.fr-footer .right_side .contact_info .contact_body .labl{
+	font-size: 15px;
+}
+/*-------Fr Footer Ends------*/
+
+
+/*-------Fr mangopay css start------*/
+section.soluction-section.bg-gray-white.fr-section .soluction-panel {
+    min-height: 265px;
+}
+.fr-btn{
+	min-width: 215px !important;
+}
+section.soluction-section.bg-gray-white.fr-section .row .col-md-6:nth-child(3) .soluction-panel,
+section.soluction-section.bg-gray-white.fr-section .row .col-md-6:nth-child(4) .soluction-panel {
+    margin-bottom: 0;
+}
+/*-------Fr mangopay ends------*/
+
+
+/*-------Fr alma css start------*/
+section.almapayementfeatures_services.fr-alma .dflex-features {
+    align-items: initial;
+}
+section.almapayementfeatures_services.fr-alma .payment_features_new {
+    min-height: 407px;
+}
+section.alma_Integration_services.fr-alma .Integration_features_new{
+	min-height: 300px;
+}
+
+@media screen and (max-width: 767px){
+	section.almapayementfeatures_services.fr-alma .payment_features_new {
+	    min-height: 326px;
+	}
+	section.alma_Integration_services.fr-alma .Integration_features_new{
+		min-height: 300px;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+	section.almapayementfeatures_services.fr-alma .payment_features_new {
+	    min-height: 330px;
+	}
+	section.alma_Integration_services.fr-alma .Integration_features_new{
+		min-height: 250px;
+	}
+	section.service-topbanner.mangopayorange .service-flex .col-md-5{
+		margin-top: 30px;
+	}
+}
